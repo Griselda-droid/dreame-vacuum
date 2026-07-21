@@ -1702,6 +1702,98 @@
       "dnd": {
         "name": "勿擾"
       }
+    },
+    "button": {
+      "reset_main_brush": {
+        "name": "重置主刷"
+      },
+      "reset_side_brush": {
+        "name": "重置边刷"
+      },
+      "reset_filter": {
+        "name": "重置滤网"
+      },
+      "reset_sensor": {
+        "name": "重置传感器"
+      },
+      "reset_mop_pad": {
+        "name": "重置拖布"
+      },
+      "reset_silver_ion": {
+        "name": "重置银离子"
+      },
+      "reset_detergent": {
+        "name": "重置清洁剂"
+      },
+      "reset_squeegee": {
+        "name": "重置刮条"
+      },
+      "reset_dirty_water_channel": {
+        "name": "重置污水通道"
+      },
+      "reset_onboard_dirty_water_tank": {
+        "name": "重置机载污水箱"
+      },
+      "reset_deodorizer": {
+        "name": "重置除臭剂"
+      },
+      "reset_wheel": {
+        "name": "重置轮子"
+      },
+      "reset_scale_inhibitor": {
+        "name": "重置阻垢剂"
+      },
+      "reset_fluffing_roller": {
+        "name": "重置起绒辊"
+      },
+      "reset_roller_mop_filter": {
+        "name": "重置滚轮拖布滤网"
+      },
+      "reset_water_outlet_filter": {
+        "name": "重置出水口滤网"
+      },
+      "start_auto_empty": {
+        "name": "开始自动集尘"
+      },
+      "clear_warning": {
+        "name": "清除警告"
+      },
+      "start_fast_mapping": {
+        "name": "开始快速建图"
+      },
+      "start_mapping": {
+        "name": "开始建图"
+      },
+      "self_clean": {
+        "name": "自清洁"
+      },
+      "manual_drying": {
+        "name": "手动烘干"
+      },
+      "manual_dust_bag_drying": {
+        "name": "手动尘袋烘干"
+      },
+      "water_tank_draining": {
+        "name": "水箱排水"
+      },
+      "empty_water_tank": {
+        "name": "清空水箱"
+      },
+      "base_station_self_repair": {
+        "name": "基站自检"
+      },
+      "base_station_cleaning": {
+        "name": "基站清洁"
+      },
+      "start_recleaning": {
+        "name": "重新清洁"
+      },
+      "reload_shortcuts": {
+        "name": "重新加载快捷指令"
+      },
+      "backup_saved_map": {
+        "name": "备份已保存地图"
+      }
     }
   },
   "entity_component": {

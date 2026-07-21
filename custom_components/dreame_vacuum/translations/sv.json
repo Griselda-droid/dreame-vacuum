@@ -1702,6 +1702,98 @@
       "dnd": {
         "name": "Stör ej"
       }
+    },
+    "button": {
+      "reset_main_brush": {
+        "name": "Reset Main Brush"
+      },
+      "reset_side_brush": {
+        "name": "Reset Side Brush"
+      },
+      "reset_filter": {
+        "name": "Reset Filter"
+      },
+      "reset_sensor": {
+        "name": "Reset Sensor"
+      },
+      "reset_mop_pad": {
+        "name": "Reset Mop Pad"
+      },
+      "reset_silver_ion": {
+        "name": "Reset Silver-Ion"
+      },
+      "reset_detergent": {
+        "name": "Reset Detergent"
+      },
+      "reset_squeegee": {
+        "name": "Reset Squeegee"
+      },
+      "reset_dirty_water_channel": {
+        "name": "Reset Dirty Water Channel"
+      },
+      "reset_onboard_dirty_water_tank": {
+        "name": "Reset Onboard Dirty Water Tank"
+      },
+      "reset_deodorizer": {
+        "name": "Reset Deodorizer"
+      },
+      "reset_wheel": {
+        "name": "Reset Wheel"
+      },
+      "reset_scale_inhibitor": {
+        "name": "Reset Scale Inhibitor"
+      },
+      "reset_fluffing_roller": {
+        "name": "Reset Fluffing Roller"
+      },
+      "reset_roller_mop_filter": {
+        "name": "Reset Roller Mop Filter"
+      },
+      "reset_water_outlet_filter": {
+        "name": "Reset Water Outlet Filter"
+      },
+      "start_auto_empty": {
+        "name": "Start Auto Empty"
+      },
+      "clear_warning": {
+        "name": "Clear Warning"
+      },
+      "start_fast_mapping": {
+        "name": "Start Fast Mapping"
+      },
+      "start_mapping": {
+        "name": "Start Mapping"
+      },
+      "self_clean": {
+        "name": "Self-Clean"
+      },
+      "manual_drying": {
+        "name": "Manual Drying"
+      },
+      "manual_dust_bag_drying": {
+        "name": "Manual Dust Bag Drying"
+      },
+      "water_tank_draining": {
+        "name": "Water Tank Draining"
+      },
+      "empty_water_tank": {
+        "name": "Empty Water Tank"
+      },
+      "base_station_self_repair": {
+        "name": "Base Station Self-Repair"
+      },
+      "base_station_cleaning": {
+        "name": "Base Station Cleaning"
+      },
+      "start_recleaning": {
+        "name": "Start Re-Cleaning"
+      },
+      "reload_shortcuts": {
+        "name": "Reload Shortcuts"
+      },
+      "backup_saved_map": {
+        "name": "Backup Saved Map"
+      }
     }
   },
   "entity_component": {

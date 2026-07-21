@@ -1086,6 +1086,15 @@ ACTION_TO_NAME: Final = {
     DreameVacuumAction.RESET_MOP_PAD: ["reset_mop_pad", "Reset Mop Pad"],
     DreameVacuumAction.RESET_SILVER_ION: ["reset_silver_ion", "Reset Silver-ion"],
     DreameVacuumAction.RESET_DETERGENT: ["reset_detergent", "Reset Detergent"],
+    DreameVacuumAction.RESET_SQUEEGEE: ["reset_squeegee", "Reset Squeegee"],
+    DreameVacuumAction.RESET_DIRTY_WATER_CHANNEL: ["reset_dirty_water_channel", "Reset Dirty Water Channel"],
+    DreameVacuumAction.RESET_ONBOARD_DIRTY_WATER_TANK: ["reset_onboard_dirty_water_tank", "Reset Onboard Dirty Water Tank"],
+    DreameVacuumAction.RESET_DEODORIZER: ["reset_deodorizer", "Reset Deodorizer"],
+    DreameVacuumAction.RESET_WHEEL: ["reset_wheel", "Reset Wheel"],
+    DreameVacuumAction.RESET_SCALE_INHIBITOR: ["reset_scale_inhibitor", "Reset Scale Inhibitor"],
+    DreameVacuumAction.RESET_FLUFFING_ROLLER: ["reset_fluffing_roller", "Reset Fluffing Roller"],
+    DreameVacuumAction.RESET_ROLLER_MOP_FILTER: ["reset_roller_mop_filter", "Reset Roller Mop Filter"],
+    DreameVacuumAction.RESET_WATER_OUTLET_FILTER: ["reset_water_outlet_filter", "Reset Water Outlet Filter"],
 }
 
 STATE_CODE_TO_STATE: Final = {
