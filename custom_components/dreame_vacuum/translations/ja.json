@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "ショートカット名"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "カスタマイズ清掃"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "徹底清掃"
+      },
+      "auto_dust_collecting": {
+        "name": "自動ゴミ収集"
+      },
+      "hair_compression": {
+        "name": "髪の毛の圧縮"
+      },
+      "self_clean": {
+        "name": "自動クリーニング"
+      },
+      "deep_mop_washing": {
+        "name": "しっかりモップ水洗い"
+      },
+      "hot_washing": {
+        "name": "温水洗浄"
+      },
+      "auto_drying": {
+        "name": "自動乾燥"
+      },
+      "silent_drying": {
+        "name": "静音乾燥"
+      },
+      "uv_sterilization": {
+        "name": "UV除菌"
+      },
+      "customized_carpet_cleaning": {
+        "name": "カスタマイズ清掃"
+      },
+      "carpet_avoidance": {
+        "name": "カーペット回避"
+      },
+      "carpet_preferences": {
+        "name": "カスタム設定"
+      },
+      "auto_change_mop": {
+        "name": "自動モップ交換"
+      },
+      "multi_floor_map": {
+        "name": "複数階マップ"
+      },
+      "intelligent_recognition": {
+        "name": "インテリジェント認識"
+      },
+      "map_saving": {
+        "name": "マップ保存"
+      },
+      "child_lock": {
+        "name": "チャイルドロック"
+      },
+      "resume_cleaning": {
+        "name": "自動再開"
+      },
+      "obstacle_avoidance": {
+        "name": "障害物回避"
+      },
+      "carpet_boost": {
+        "name": "カーペットブースト"
+      },
+      "carpet_recognition": {
+        "name": "カーペット認識"
+      },
+      "clean_carpets_first": {
+        "name": "カーペットを先に清掃"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "カーペットでローラーカバーを閉じる"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "集中カーペット清掃"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "カーペットでのサイドブラシ回転"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "カーペットでシャーシを持ち上げる"
+      },
+      "auto_mount_mop": {
+        "name": "自動モップ装着"
+      },
+      "mopping_with_detergent": {
+        "name": "洗剤による水拭き"
+      },
+      "mop_washing_with_detergent": {
+        "name": "洗剤によるモップ洗浄"
+      },
+      "auto_add_detergent": {
+        "name": "洗剤の自動追加"
+      },
+      "smart_mop_washing": {
+        "name": "スマートモップ洗浄"
+      },
+      "wider_corner_coverage": {
+        "name": "広範囲の隅の清掃"
+      },
+      "pressurized_cleaning": {
+        "name": "加圧清掃"
+      },
+      "gap_cleaning_extension": {
+        "name": "隙間清掃の延長"
+      },
+      "mopping_under_furnitures": {
+        "name": "家具の下の水拭き"
+      },
+      "floor_direction_cleaning": {
+        "name": "床の方向清掃"
+      },
+      "ring_light_always_on": {
+        "name": "リングライト常時点灯"
+      },
+      "collision_avoidance": {
+        "name": "衝突回避"
+      },
+      "fill_light": {
+        "name": "カメラライト"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI障害物検知"
+      },
+      "ai_pet_detection": {
+        "name": "ペット検知"
+      },
+      "pet_focused_detection": {
+        "name": "ペット集中検知"
+      },
+      "pet_focused_cleaning": {
+        "name": "ペット集中清掃"
+      },
+      "ai_obstacle_picture": {
+        "name": "障害物の写真"
+      },
+      "obstacle_crossing": {
+        "name": "同期障害物乗り越え"
+      },
+      "active_suspension_crossing": {
+        "name": "アクティブサスペンション乗り越え"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "動的障害物の清掃"
+      },
+      "large_particles_boost": {
+        "name": "大きな粒子のブースト"
+      },
+      "streaming_voice_prompt": {
+        "name": "ストリーミング音声プロンプト"
+      },
+      "voice_assistant": {
+        "name": "音声アシスタント"
+      },
+      "off_peak_charging": {
+        "name": "オフピーク充電"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "自動再開を無効化"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "自動ゴミ収集を無効化"
+      },
+      "dnd_reduce_volume": {
+        "name": "音量を下げる"
+      },
+      "dnd": {
+        "name": "おやすみモード"
+      }
     }
   },
   "entity_component": {

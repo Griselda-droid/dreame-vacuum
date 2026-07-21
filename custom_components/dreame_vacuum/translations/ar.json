@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "اسم الاختصار"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "تنظيف مخصص"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "تنظيف عميق"
+      },
+      "auto_dust_collecting": {
+        "name": "تفريغ تلقائي"
+      },
+      "hair_compression": {
+        "name": "ضغط الشعر"
+      },
+      "self_clean": {
+        "name": "تنظيف ذاتي"
+      },
+      "deep_mop_washing": {
+        "name": "غسيل عميق للممسحة"
+      },
+      "hot_washing": {
+        "name": "غسيل بالماء الساخن"
+      },
+      "auto_drying": {
+        "name": "تجفيف تلقائي"
+      },
+      "silent_drying": {
+        "name": "تجفيف صامت"
+      },
+      "uv_sterilization": {
+        "name": "تعقيم بالأشعة فوق البنفسجية"
+      },
+      "customized_carpet_cleaning": {
+        "name": "تنظيف مخصص"
+      },
+      "carpet_avoidance": {
+        "name": "تجنب السجاد"
+      },
+      "carpet_preferences": {
+        "name": "تفضيلات مخصصة"
+      },
+      "auto_change_mop": {
+        "name": "تغيير الممسحة التلقائي"
+      },
+      "multi_floor_map": {
+        "name": "خريطة متعددة الطوابق"
+      },
+      "intelligent_recognition": {
+        "name": "التعرف الذكي"
+      },
+      "map_saving": {
+        "name": "حفظ الخريطة"
+      },
+      "child_lock": {
+        "name": "قفل الأطفال"
+      },
+      "resume_cleaning": {
+        "name": "استئناف التنظيف"
+      },
+      "obstacle_avoidance": {
+        "name": "تجنب العوائق"
+      },
+      "carpet_boost": {
+        "name": "تعزيز تنظيف السجاد"
+      },
+      "carpet_recognition": {
+        "name": "التعرف على السجاد"
+      },
+      "clean_carpets_first": {
+        "name": "تنظيف السجاد أولاً"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "إغلاق غطاء الأسطوانة على السجاد"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "تنظيف مكثف للسجاد"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "دوران الفرشاة الجانبية على السجاد"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "رفع الهيكل على السجاد"
+      },
+      "auto_mount_mop": {
+        "name": "تثبيت الممسحة التلقائي"
+      },
+      "mopping_with_detergent": {
+        "name": "مسح باستخدام سائل التنظيف"
+      },
+      "mop_washing_with_detergent": {
+        "name": "غسل الممسحة باستخدام سائل التنظيف"
+      },
+      "auto_add_detergent": {
+        "name": "إضافة سائل التنظيف تلقائياً"
+      },
+      "smart_mop_washing": {
+        "name": "غسل ذكي للممسحة"
+      },
+      "wider_corner_coverage": {
+        "name": "تغطية أوسع للزوايا"
+      },
+      "pressurized_cleaning": {
+        "name": "تنظيف بالضغط"
+      },
+      "gap_cleaning_extension": {
+        "name": "تمديد تنظيف الفجوات"
+      },
+      "mopping_under_furnitures": {
+        "name": "مسح أسفل الأثاث"
+      },
+      "floor_direction_cleaning": {
+        "name": "التنظيف باتجاه الأرضية"
+      },
+      "ring_light_always_on": {
+        "name": "الإضاءة الحلقية تعمل دائماً"
+      },
+      "collision_avoidance": {
+        "name": "تجنب الاصطدام"
+      },
+      "fill_light": {
+        "name": "إضاءة الكاميرا"
+      },
+      "ai_obstacle_detection": {
+        "name": "اكتشاف العوائق بالذكاء الاصطناعي"
+      },
+      "ai_pet_detection": {
+        "name": "اكتشاف الحيوانات الأليفة"
+      },
+      "pet_focused_detection": {
+        "name": "اكتشاف مركز للحیوانات الأليفة"
+      },
+      "pet_focused_cleaning": {
+        "name": "تنظيف مركز للحيوانات الأليفة"
+      },
+      "ai_obstacle_picture": {
+        "name": "صور العوائق"
+      },
+      "obstacle_crossing": {
+        "name": "عبور العوائق المتزامن"
+      },
+      "active_suspension_crossing": {
+        "name": "عبور العوائق بنظام التعليق النشط"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "تنظيف العوائق المتحركة"
+      },
+      "large_particles_boost": {
+        "name": "تعزيز تنظيف الجسيمات الكبيرة"
+      },
+      "streaming_voice_prompt": {
+        "name": "توجيهات صوتية مستمرة"
+      },
+      "voice_assistant": {
+        "name": "المساعد الصوتي"
+      },
+      "off_peak_charging": {
+        "name": "الشحن في أوقات خارج الذروة"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "تعطيل استئناف التنظيف"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "تعطيل التفريغ التلقائي"
+      },
+      "dnd_reduce_volume": {
+        "name": "تقليل مستوى الصوت"
+      },
+      "dnd": {
+        "name": "عدم الإزعاج"
+      }
     }
   },
   "entity_component": {

@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Genvägsnamn"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Anpassad städning"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Djupstötning"
+      },
+      "auto_dust_collecting": {
+        "name": "Automatisk tömning"
+      },
+      "hair_compression": {
+        "name": "Hårkomprimering"
+      },
+      "self_clean": {
+        "name": "Självrengöring"
+      },
+      "deep_mop_washing": {
+        "name": "Djup mopptvätt"
+      },
+      "hot_washing": {
+        "name": "Varmvattentvätt"
+      },
+      "auto_drying": {
+        "name": "Automatisk torkning"
+      },
+      "silent_drying": {
+        "name": "Tyst torkning"
+      },
+      "uv_sterilization": {
+        "name": "UV-sterilisering"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Anpassad städning"
+      },
+      "carpet_avoidance": {
+        "name": "Undvik mattor"
+      },
+      "carpet_preferences": {
+        "name": "Anpassade preferenser"
+      },
+      "auto_change_mop": {
+        "name": "Automatiskt moppbyte"
+      },
+      "multi_floor_map": {
+        "name": "Flerplans-karta"
+      },
+      "intelligent_recognition": {
+        "name": "Intelligent igenkänning"
+      },
+      "map_saving": {
+        "name": "Spara karta"
+      },
+      "child_lock": {
+        "name": "Barnlås"
+      },
+      "resume_cleaning": {
+        "name": "Återuppta städning"
+      },
+      "obstacle_avoidance": {
+        "name": "Undvik hinder"
+      },
+      "carpet_boost": {
+        "name": "Matt-boost"
+      },
+      "carpet_recognition": {
+        "name": "Matt-igenkänning"
+      },
+      "clean_carpets_first": {
+        "name": "Städa mattor först"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Stäng rullskydd på matta"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensiv mattrengöring"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Sidoborstrotation på matta"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Lyft chassi på matta"
+      },
+      "auto_mount_mop": {
+        "name": "Automatisk moppmontering"
+      },
+      "mopping_with_detergent": {
+        "name": "Moppning med rengöringsmedel"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mopptvätt med rengöringsmedel"
+      },
+      "auto_add_detergent": {
+        "name": "Automatisk tillsats av medel"
+      },
+      "smart_mop_washing": {
+        "name": "Smart mopptvätt"
+      },
+      "wider_corner_coverage": {
+        "name": "Bredare hörntäckning"
+      },
+      "pressurized_cleaning": {
+        "name": "Trycksatt städning"
+      },
+      "gap_cleaning_extension": {
+        "name": "Utökad springrengöring"
+      },
+      "mopping_under_furnitures": {
+        "name": "Moppning under möbler"
+      },
+      "floor_direction_cleaning": {
+        "name": "Rengöring i golvriktning"
+      },
+      "ring_light_always_on": {
+        "name": "Ringljus alltid på"
+      },
+      "collision_avoidance": {
+        "name": "Kollisionsundvikande"
+      },
+      "fill_light": {
+        "name": "Kameraljus"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI-hinderdetektering"
+      },
+      "ai_pet_detection": {
+        "name": "Husdjursdetektering"
+      },
+      "pet_focused_detection": {
+        "name": "Husdjursfokuserad detektering"
+      },
+      "pet_focused_cleaning": {
+        "name": "Husdjursfokuserad städning"
+      },
+      "ai_obstacle_picture": {
+        "name": "Hinderfoton"
+      },
+      "obstacle_crossing": {
+        "name": "Synkroniserad hinderpassage"
+      },
+      "active_suspension_crossing": {
+        "name": "Passage med aktiv fjädring"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dynamisk hinderstädning"
+      },
+      "large_particles_boost": {
+        "name": "Boost för stora partiklar"
+      },
+      "streaming_voice_prompt": {
+        "name": "Streaming röstmeddelande"
+      },
+      "voice_assistant": {
+        "name": "Röstassistent"
+      },
+      "off_peak_charging": {
+        "name": "Laddning lågtrafik"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Inaktivera återupptagen städning"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Inaktivera automatisk tömning"
+      },
+      "dnd_reduce_volume": {
+        "name": "Sänk volym"
+      },
+      "dnd": {
+        "name": "Stör ej"
+      }
     }
   },
   "entity_component": {

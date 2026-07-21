@@ -165,7 +165,8 @@ class DreameVacuumEntity(CoordinatorEntity[DreameVacuumDataUpdateCoordinator]):
             if self.entity_description.icon_fn is not None:
                 self._attr_icon = self.entity_description.icon_fn(self.native_value, self.device)
 
-            self._attr_name = self.entity_description.name
+            if self._attr_translation_key is None:
+                self._attr_name = self.entity_description.name
 
     def _generate_entity_id(self, format) -> None:
         if self.entity_description.key:

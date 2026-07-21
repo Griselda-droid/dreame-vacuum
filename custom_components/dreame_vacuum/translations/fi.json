@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Pikakuvakkeen Nimi"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Mukautettu siivous"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Perusteellinen puhdistus"
+      },
+      "auto_dust_collecting": {
+        "name": "Automaattityhjennys"
+      },
+      "hair_compression": {
+        "name": "Hiusten pakkaus"
+      },
+      "self_clean": {
+        "name": "Itsepuhdistus"
+      },
+      "deep_mop_washing": {
+        "name": "Perusteellinen mopin pesu"
+      },
+      "hot_washing": {
+        "name": "Kuuma pesu"
+      },
+      "auto_drying": {
+        "name": "Automaattinen kuivaus"
+      },
+      "silent_drying": {
+        "name": "Hiljainen kuivaus"
+      },
+      "uv_sterilization": {
+        "name": "UV-sterilointi"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Mukautettu siivous"
+      },
+      "carpet_avoidance": {
+        "name": "Maton välttäminen"
+      },
+      "carpet_preferences": {
+        "name": "Mukautetut mieltymykset"
+      },
+      "auto_change_mop": {
+        "name": "Automaattinen mopin vaihto"
+      },
+      "multi_floor_map": {
+        "name": "Monikerroksinen kartta"
+      },
+      "intelligent_recognition": {
+        "name": "Älykäs tunnistus"
+      },
+      "map_saving": {
+        "name": "Kartan tallennus"
+      },
+      "child_lock": {
+        "name": "Lapsilukko"
+      },
+      "resume_cleaning": {
+        "name": "Jatka siivousta"
+      },
+      "obstacle_avoidance": {
+        "name": "Esteiden väistäminen"
+      },
+      "carpet_boost": {
+        "name": "Maton tehostus"
+      },
+      "carpet_recognition": {
+        "name": "Maton tunnistus"
+      },
+      "clean_carpets_first": {
+        "name": "Puhdista matot ensin"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Sulje telaharjan suojus matolla"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensiivinen maton puhdistus"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Sivuharja pyörii matolla"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Nosta runko matolla"
+      },
+      "auto_mount_mop": {
+        "name": "Automaattisesti asennettava moppi"
+      },
+      "mopping_with_detergent": {
+        "name": "Moppaus pesuaineella"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mopin pesu pesuaineella"
+      },
+      "auto_add_detergent": {
+        "name": "Lisää pesuainetta automaattisesti"
+      },
+      "smart_mop_washing": {
+        "name": "Älykäs mopipesu"
+      },
+      "wider_corner_coverage": {
+        "name": "Laajempi kulmien peitto"
+      },
+      "pressurized_cleaning": {
+        "name": "Paineistettu siivous"
+      },
+      "gap_cleaning_extension": {
+        "name": "Välipuhdistuksen lisäosa"
+      },
+      "mopping_under_furnitures": {
+        "name": "Moppaus huonekalujen alla"
+      },
+      "floor_direction_cleaning": {
+        "name": "Lattian suuntainen puhdistus"
+      },
+      "ring_light_always_on": {
+        "name": "Rengasvalo aina päällä"
+      },
+      "collision_avoidance": {
+        "name": "Törmäysten välttäminen"
+      },
+      "fill_light": {
+        "name": "Kameravalo"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI-esteiden tunnistus"
+      },
+      "ai_pet_detection": {
+        "name": "Lemmikin tunnistus"
+      },
+      "pet_focused_detection": {
+        "name": "Lemmikkiin keskittyvä tunnistus"
+      },
+      "pet_focused_cleaning": {
+        "name": "Lemmikkiin keskittyvä siivous"
+      },
+      "ai_obstacle_picture": {
+        "name": "Kuvat esteistä"
+      },
+      "obstacle_crossing": {
+        "name": "Synkronoitu esteen ylitys"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktiivinen jousitettu ylitys"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dynaaminen esteiden puhdistus"
+      },
+      "large_particles_boost": {
+        "name": "Suurten hiukkasten tehostus"
+      },
+      "streaming_voice_prompt": {
+        "name": "Striimauksen puhekehote"
+      },
+      "voice_assistant": {
+        "name": "Ääniavustaja"
+      },
+      "off_peak_charging": {
+        "name": "Lataus ruuhka-aikojen ulkopuolella"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Estä siivouksen jatkaminen"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Poista automaattinen tyhjennys käytöstä"
+      },
+      "dnd_reduce_volume": {
+        "name": "Vähennä äänenvoimakkuutta"
+      },
+      "dnd": {
+        "name": "Älä häiritse -tila (DnD)"
+      }
     }
   },
   "entity_component": {

@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Otsetee nimi"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Kohandatud puhastus"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Süvapuhastus"
+      },
+      "auto_dust_collecting": {
+        "name": "Automaatne tühjendus"
+      },
+      "hair_compression": {
+        "name": "Juuste kokkupressimine"
+      },
+      "self_clean": {
+        "name": "Isepuhastus"
+      },
+      "deep_mop_washing": {
+        "name": "Sügav mopi pesemine"
+      },
+      "hot_washing": {
+        "name": "Kuum pesu"
+      },
+      "auto_drying": {
+        "name": "Automaatne kuivatamine"
+      },
+      "silent_drying": {
+        "name": "Vaikne kuivatamine"
+      },
+      "uv_sterilization": {
+        "name": "UV-idandite hävitamine"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Kohandatud puhastus"
+      },
+      "carpet_avoidance": {
+        "name": "Vaiba vältimine"
+      },
+      "carpet_preferences": {
+        "name": "Kohandatud eelistused"
+      },
+      "auto_change_mop": {
+        "name": "Automaatne mopi vahetus"
+      },
+      "multi_floor_map": {
+        "name": "Mitmenda korruse kaart"
+      },
+      "intelligent_recognition": {
+        "name": "Nutikas tuvastamine"
+      },
+      "map_saving": {
+        "name": "Kaardi salvestamine"
+      },
+      "child_lock": {
+        "name": "Lapselukk"
+      },
+      "resume_cleaning": {
+        "name": "Puhastamise jätkamine"
+      },
+      "obstacle_avoidance": {
+        "name": "Takistuste vältimine"
+      },
+      "carpet_boost": {
+        "name": "Vaiba võimenduse režiim"
+      },
+      "carpet_recognition": {
+        "name": "Vaiba tuvastamine"
+      },
+      "clean_carpets_first": {
+        "name": "Puhasta vaibad esimesena"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Sulgege rulliku kate vaibal"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensiivne vaipade puhastus"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Külghari pöörlemine vaibal"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Tõsta šassii vaibal"
+      },
+      "auto_mount_mop": {
+        "name": "Automaatne mopi kinnitamine"
+      },
+      "mopping_with_detergent": {
+        "name": "Puhastamine pesuvahendiga"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mopi pesemine puhastusvahendiga"
+      },
+      "auto_add_detergent": {
+        "name": "Pesuvahendi automaatne lisamine"
+      },
+      "smart_mop_washing": {
+        "name": "Nutikas mopopesu"
+      },
+      "wider_corner_coverage": {
+        "name": "Laiem nurkade katvus"
+      },
+      "pressurized_cleaning": {
+        "name": "Survepesu"
+      },
+      "gap_cleaning_extension": {
+        "name": "Laiendatud pilude puhastus"
+      },
+      "mopping_under_furnitures": {
+        "name": "Mööbli aluse pesemine"
+      },
+      "floor_direction_cleaning": {
+        "name": "Põranda suunas puhastus"
+      },
+      "ring_light_always_on": {
+        "name": "Rõngasvalgusti alati sees"
+      },
+      "collision_avoidance": {
+        "name": "Kokkupõrke vältimine"
+      },
+      "fill_light": {
+        "name": "Kaamera valgus"
+      },
+      "ai_obstacle_detection": {
+        "name": "Tehisintellekti takistuste tuvastamine"
+      },
+      "ai_pet_detection": {
+        "name": "Tehisintellekti abil lemmiklooma tuvastamine"
+      },
+      "pet_focused_detection": {
+        "name": "Lemmiklooma fookusega tuvastamine"
+      },
+      "pet_focused_cleaning": {
+        "name": "Lemmiklooma fookusega puhastus"
+      },
+      "ai_obstacle_picture": {
+        "name": "Takistuste pildid"
+      },
+      "obstacle_crossing": {
+        "name": "Sünkroonitud takistuste ületamine"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktiivne vedrustus takistuste ületamiseks"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dünaamiline takistuse puhastamine"
+      },
+      "large_particles_boost": {
+        "name": "Suurte osakeste võimendus"
+      },
+      "streaming_voice_prompt": {
+        "name": "Streaming häljaviisang"
+      },
+      "voice_assistant": {
+        "name": "Häälassistent"
+      },
+      "off_peak_charging": {
+        "name": "Laadimine tipptunnivälisel ajal"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Keela puhastuse jätkamine"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Keela automaatne tühjendus"
+      },
+      "dnd_reduce_volume": {
+        "name": "Vähenda helitugevust"
+      },
+      "dnd": {
+        "name": "Mitte segada"
+      }
     }
   },
   "entity_component": {

@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Nume scurtătură"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Curățare personalizată"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Curățare profundă"
+      },
+      "auto_dust_collecting": {
+        "name": "Golire automată"
+      },
+      "hair_compression": {
+        "name": "Compresia părului"
+      },
+      "self_clean": {
+        "name": "Autocurățare"
+      },
+      "deep_mop_washing": {
+        "name": "Spălare profundă mop"
+      },
+      "hot_washing": {
+        "name": "Spălare cu apă fierbinte"
+      },
+      "auto_drying": {
+        "name": "Uscare automată"
+      },
+      "silent_drying": {
+        "name": "Uscare silențioasă"
+      },
+      "uv_sterilization": {
+        "name": "Sterilizare UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Curățare personalizată"
+      },
+      "carpet_avoidance": {
+        "name": "Evitare covoare"
+      },
+      "carpet_preferences": {
+        "name": "Preferințe personalizate"
+      },
+      "auto_change_mop": {
+        "name": "Schimbare automată mop"
+      },
+      "multi_floor_map": {
+        "name": "Hartă multietaj"
+      },
+      "intelligent_recognition": {
+        "name": "Recunoaștere inteligentă"
+      },
+      "map_saving": {
+        "name": "Salvare hartă"
+      },
+      "child_lock": {
+        "name": "Blocare copii"
+      },
+      "resume_cleaning": {
+        "name": "Reluare curățare"
+      },
+      "obstacle_avoidance": {
+        "name": "Evitarea obstacolelor"
+      },
+      "carpet_boost": {
+        "name": "Boost pentru covoare"
+      },
+      "carpet_recognition": {
+        "name": "Recunoaștere covoare"
+      },
+      "clean_carpets_first": {
+        "name": "Curățare covoare întâi"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Închidere capac rolă pe covor"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Curățare intensivă covoare"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Rotație perie laterală pe covor"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Ridicare șasiu pe covor"
+      },
+      "auto_mount_mop": {
+        "name": "Montare automată mop"
+      },
+      "mopping_with_detergent": {
+        "name": "Spălare cu detergent"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Spălare mop cu detergent"
+      },
+      "auto_add_detergent": {
+        "name": "Adăugare automată detergent"
+      },
+      "smart_mop_washing": {
+        "name": "Spălare inteligentă mop"
+      },
+      "wider_corner_coverage": {
+        "name": "Acoperire mai mare a colțurilor"
+      },
+      "pressurized_cleaning": {
+        "name": "Curățare presurizată"
+      },
+      "gap_cleaning_extension": {
+        "name": "Extensie curățare spații înguste"
+      },
+      "mopping_under_furnitures": {
+        "name": "Spălare sub mobilă"
+      },
+      "floor_direction_cleaning": {
+        "name": "Curățare în direcția podelei"
+      },
+      "ring_light_always_on": {
+        "name": "Lumină inelară permanentă"
+      },
+      "collision_avoidance": {
+        "name": "Prevenirea coliziunilor"
+      },
+      "fill_light": {
+        "name": "Lumină cameră"
+      },
+      "ai_obstacle_detection": {
+        "name": "Detectare obstacole AI"
+      },
+      "ai_pet_detection": {
+        "name": "Detectare animale"
+      },
+      "pet_focused_detection": {
+        "name": "Detectare focalizată pe animale"
+      },
+      "pet_focused_cleaning": {
+        "name": "Curățare focalizată pe animale"
+      },
+      "ai_obstacle_picture": {
+        "name": "Poze obstacole"
+      },
+      "obstacle_crossing": {
+        "name": "Trecere obstacole sincronizată"
+      },
+      "active_suspension_crossing": {
+        "name": "Trecere cu suspensie activă"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Curățare dinamică obstacole"
+      },
+      "large_particles_boost": {
+        "name": "Boost pentru particule mari"
+      },
+      "streaming_voice_prompt": {
+        "name": "Mesaj vocal streaming"
+      },
+      "voice_assistant": {
+        "name": "Asistent vocal"
+      },
+      "off_peak_charging": {
+        "name": "Încărcare în afara vârfului"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Dezactivare reluare curățare"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Dezactivare golire automată"
+      },
+      "dnd_reduce_volume": {
+        "name": "Reducere volum"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

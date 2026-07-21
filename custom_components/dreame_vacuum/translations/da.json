@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Genvejsnavn"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Brugerdefineret rengøring"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "Dybdegående rengøring"
+      },
+      "auto_dust_collecting": {
+        "name": "Auto-tømning"
+      },
+      "hair_compression": {
+        "name": "Hårkomprimering"
+      },
+      "self_clean": {
+        "name": "Selvrensning"
+      },
+      "deep_mop_washing": {
+        "name": "Dyb moppevask"
+      },
+      "hot_washing": {
+        "name": "Varmtvandsvask"
+      },
+      "auto_drying": {
+        "name": "Automatisk tørring"
+      },
+      "silent_drying": {
+        "name": "Lydløs tørring"
+      },
+      "uv_sterilization": {
+        "name": "UV-sterilisering"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Brugerdefineret rengøring"
+      },
+      "carpet_avoidance": {
+        "name": "Tæppeundgåelse"
+      },
+      "carpet_preferences": {
+        "name": "Brugerdefinerede præferencer"
+      },
+      "auto_change_mop": {
+        "name": "Automatisk moppeskift"
+      },
+      "multi_floor_map": {
+        "name": "Kort over flere etager"
+      },
+      "intelligent_recognition": {
+        "name": "Intelligent genkendelse"
+      },
+      "map_saving": {
+        "name": "Kortlagring"
+      },
+      "child_lock": {
+        "name": "Børnelås"
+      },
+      "resume_cleaning": {
+        "name": "Genoptag rengøring"
+      },
+      "obstacle_avoidance": {
+        "name": "Forhindringsundgåelse"
+      },
+      "carpet_boost": {
+        "name": "Tæppeboost"
+      },
+      "carpet_recognition": {
+        "name": "Tæppegenkendelse"
+      },
+      "clean_carpets_first": {
+        "name": "Rengør tæpper først"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Luk rulledæksel på tæppe"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensiv tæpperengøring"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Sidebørsterotation på tæppe"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Løft chassis på tæppe"
+      },
+      "auto_mount_mop": {
+        "name": "Automatisk montering af moppe"
+      },
+      "mopping_with_detergent": {
+        "name": "Gulvvask med rengøringsmiddel"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Moppevask med rengøringsmiddel"
+      },
+      "auto_add_detergent": {
+        "name": "Tilføj automatisk rengøringsmiddel"
+      },
+      "smart_mop_washing": {
+        "name": "Smart-moppevask"
+      },
+      "wider_corner_coverage": {
+        "name": "Bredere hjørnedækning"
+      },
+      "pressurized_cleaning": {
+        "name": "Trykrengøring"
+      },
+      "gap_cleaning_extension": {
+        "name": "Udvidelse til sprækkerengøring"
+      },
+      "mopping_under_furnitures": {
+        "name": "Gulvvask under møbler"
+      },
+      "floor_direction_cleaning": {
+        "name": "Gulvretningsrengøring"
+      },
+      "ring_light_always_on": {
+        "name": "Ringlys altid tændt"
+      },
+      "collision_avoidance": {
+        "name": "Kollisionsundgåelse"
+      },
+      "fill_light": {
+        "name": "Kameralys"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI-forhindringsdetektion"
+      },
+      "ai_pet_detection": {
+        "name": "Kæledyrsdetektion"
+      },
+      "pet_focused_detection": {
+        "name": "Kæledyrsfokuseret detektion"
+      },
+      "pet_focused_cleaning": {
+        "name": "Kæledyrsfokuseret rengøring"
+      },
+      "ai_obstacle_picture": {
+        "name": "Forhindringsbilleder"
+      },
+      "obstacle_crossing": {
+        "name": "Synkroniseret krydsning af forhindringer"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktiv affjedringskrydsning"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dynamisk forhindringsrengøring"
+      },
+      "large_particles_boost": {
+        "name": "Boost til store partikler"
+      },
+      "streaming_voice_prompt": {
+        "name": "Streaming stemmemeddelelse"
+      },
+      "voice_assistant": {
+        "name": "Stemmeassistent"
+      },
+      "off_peak_charging": {
+        "name": "Opladning uden for myldretiden"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Deaktiver genoptag rengøring"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Deaktiver automatisk tømning"
+      },
+      "dnd_reduce_volume": {
+        "name": "Reducer lydstyrke"
+      },
+      "dnd": {
+        "name": "Forstyr ikke"
+      }
     }
   },
   "entity_component": {

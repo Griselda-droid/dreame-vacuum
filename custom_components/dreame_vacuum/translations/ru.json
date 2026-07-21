@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Название ярлыка"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Индивидуальная уборка"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Глубокая уборка"
+      },
+      "auto_dust_collecting": {
+        "name": "Автовыгрузка мусора"
+      },
+      "hair_compression": {
+        "name": "Уплотнение волос"
+      },
+      "self_clean": {
+        "name": "Самоочистка"
+      },
+      "deep_mop_washing": {
+        "name": "Глубокая мойка швабры"
+      },
+      "hot_washing": {
+        "name": "Мойка горячей водой"
+      },
+      "auto_drying": {
+        "name": "Автосушка"
+      },
+      "silent_drying": {
+        "name": "Тихая сушка"
+      },
+      "uv_sterilization": {
+        "name": "УФ-стерилизация"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Индивидуальная уборка"
+      },
+      "carpet_avoidance": {
+        "name": "Избегать ковров"
+      },
+      "carpet_preferences": {
+        "name": "Индивидуальные настройки"
+      },
+      "auto_change_mop": {
+        "name": "Автосмена швабры"
+      },
+      "multi_floor_map": {
+        "name": "Многоуровневая карта"
+      },
+      "intelligent_recognition": {
+        "name": "Умное распознавание"
+      },
+      "map_saving": {
+        "name": "Сохранение карты"
+      },
+      "child_lock": {
+        "name": "Блокировка от детей"
+      },
+      "resume_cleaning": {
+        "name": "Возобновление уборки"
+      },
+      "obstacle_avoidance": {
+        "name": "Обход препятствий"
+      },
+      "carpet_boost": {
+        "name": "Турбо режим на коврах"
+      },
+      "carpet_recognition": {
+        "name": "Распознавание ковров"
+      },
+      "clean_carpets_first": {
+        "name": "Сначала уборка ковров"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Закрывать кожух на ковре"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Интенсивная уборка ковров"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Вращение боковой щетки на ковре"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Подъем шасси на ковре"
+      },
+      "auto_mount_mop": {
+        "name": "Автоматическая установка швабры"
+      },
+      "mopping_with_detergent": {
+        "name": "Мойка с чистящим средством"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Мойка швабры со средством"
+      },
+      "auto_add_detergent": {
+        "name": "Автодобавление средства"
+      },
+      "smart_mop_washing": {
+        "name": "Умная мойка швабры"
+      },
+      "wider_corner_coverage": {
+        "name": "Более широкий охват углов"
+      },
+      "pressurized_cleaning": {
+        "name": "Уборка под давлением"
+      },
+      "gap_cleaning_extension": {
+        "name": "Уборка вдоль щелей"
+      },
+      "mopping_under_furnitures": {
+        "name": "Мойка под мебелью"
+      },
+      "floor_direction_cleaning": {
+        "name": "Уборка по направлению пола"
+      },
+      "ring_light_always_on": {
+        "name": "Подсветка всегда включена"
+      },
+      "collision_avoidance": {
+        "name": "Предотвращение столкновений"
+      },
+      "fill_light": {
+        "name": "Подсветка камеры"
+      },
+      "ai_obstacle_detection": {
+        "name": "ИИ-распознавание препятствий"
+      },
+      "ai_pet_detection": {
+        "name": "Распознавание животных"
+      },
+      "pet_focused_detection": {
+        "name": "Обнаружение животных"
+      },
+      "pet_focused_cleaning": {
+        "name": "Уборка за животными"
+      },
+      "ai_obstacle_picture": {
+        "name": "Фотографии препятствий"
+      },
+      "obstacle_crossing": {
+        "name": "Преодоление препятствий"
+      },
+      "active_suspension_crossing": {
+        "name": "Преодоление с активной подвеской"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Динамическая уборка"
+      },
+      "large_particles_boost": {
+        "name": "Турбо для крупных частиц"
+      },
+      "streaming_voice_prompt": {
+        "name": "Голосовые подсказки streaming"
+      },
+      "voice_assistant": {
+        "name": "Голосовой помощник"
+      },
+      "off_peak_charging": {
+        "name": "Зарядка в ночное время"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Не возобновлять уборку"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Отключить автовыгрузку"
+      },
+      "dnd_reduce_volume": {
+        "name": "Снизить громкость"
+      },
+      "dnd": {
+        "name": "Режим «Не беспокоить»"
+      }
     }
   },
   "entity_component": {

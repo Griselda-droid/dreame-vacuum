@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Nom de la drecera"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Neteja personalitzada"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Neteja profunda"
+      },
+      "auto_dust_collecting": {
+        "name": "Buidat automàtic"
+      },
+      "hair_compression": {
+        "name": "Compressió de pèls"
+      },
+      "self_clean": {
+        "name": "Autoneteja"
+      },
+      "deep_mop_washing": {
+        "name": "Rentat profund de mopa"
+      },
+      "hot_washing": {
+        "name": "Rentat amb aigua calenta"
+      },
+      "auto_drying": {
+        "name": "Secat automàtic"
+      },
+      "silent_drying": {
+        "name": "Secat silenciós"
+      },
+      "uv_sterilization": {
+        "name": "Esterilització UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Neteja personalitzada"
+      },
+      "carpet_avoidance": {
+        "name": "Evitar catifes"
+      },
+      "carpet_preferences": {
+        "name": "Preferències personalitzades"
+      },
+      "auto_change_mop": {
+        "name": "Canvi automàtic de mopa"
+      },
+      "multi_floor_map": {
+        "name": "Mapa multipis"
+      },
+      "intelligent_recognition": {
+        "name": "Reconeixement intel·ligent"
+      },
+      "map_saving": {
+        "name": "Guardat de mapa"
+      },
+      "child_lock": {
+        "name": "Bloqueig infantil"
+      },
+      "resume_cleaning": {
+        "name": "Reprendre neteja"
+      },
+      "obstacle_avoidance": {
+        "name": "Evitació d'obstacles"
+      },
+      "carpet_boost": {
+        "name": "Reforç de catifes"
+      },
+      "carpet_recognition": {
+        "name": "Reconeixement de catifes"
+      },
+      "clean_carpets_first": {
+        "name": "Netejar catifes primer"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Tancar tapa del corró en catifa"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Neteja intensiva de catifes"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Rotació de raspall lateral en catifa"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Aixecar xassís en catifa"
+      },
+      "auto_mount_mop": {
+        "name": "Muntatge automàtic de mopa"
+      },
+      "mopping_with_detergent": {
+        "name": "Fregat amb detergent"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Rentat de mopa amb detergent"
+      },
+      "auto_add_detergent": {
+        "name": "Afegir detergent automàticament"
+      },
+      "smart_mop_washing": {
+        "name": "Rentat intel·ligent de mopa"
+      },
+      "wider_corner_coverage": {
+        "name": "Major cobertura de racons"
+      },
+      "pressurized_cleaning": {
+        "name": "Neteja pressuritzada"
+      },
+      "gap_cleaning_extension": {
+        "name": "Extensió de neteja d'escletxes"
+      },
+      "mopping_under_furnitures": {
+        "name": "Fregat sota els mobles"
+      },
+      "floor_direction_cleaning": {
+        "name": "Neteja segons la direcció del terra"
+      },
+      "ring_light_always_on": {
+        "name": "Llum anular sempre encès"
+      },
+      "collision_avoidance": {
+        "name": "Prevenir col·lisions"
+      },
+      "fill_light": {
+        "name": "Llum de la càmera"
+      },
+      "ai_obstacle_detection": {
+        "name": "Detecció d'obstacles per IA"
+      },
+      "ai_pet_detection": {
+        "name": "Detecció de mascotes"
+      },
+      "pet_focused_detection": {
+        "name": "Detecció centrada en mascotes"
+      },
+      "pet_focused_cleaning": {
+        "name": "Neteja centrada en mascotes"
+      },
+      "ai_obstacle_picture": {
+        "name": "Fotos d'obstacles"
+      },
+      "obstacle_crossing": {
+        "name": "Creuament d'obstacles sincronitzat"
+      },
+      "active_suspension_crossing": {
+        "name": "Creuament amb suspensió activa"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Neteja dinàmica d'obstacles"
+      },
+      "large_particles_boost": {
+        "name": "Reforç per partícules grans"
+      },
+      "streaming_voice_prompt": {
+        "name": "Avís de veu en streaming"
+      },
+      "voice_assistant": {
+        "name": "Assistent de veu"
+      },
+      "off_peak_charging": {
+        "name": "Càrrega en hores vall"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Desactivar la represa de neteja"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Desactivar el buidat automàtic"
+      },
+      "dnd_reduce_volume": {
+        "name": "Reduir volum"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

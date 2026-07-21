@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Tên phím tắt"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Làm sạch tùy chỉnh"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "Làm sạch sâu"
+      },
+      "auto_dust_collecting": {
+        "name": "Tự động đổ rác"
+      },
+      "hair_compression": {
+        "name": "Nén tóc"
+      },
+      "self_clean": {
+        "name": "Tự làm sạch"
+      },
+      "deep_mop_washing": {
+        "name": "Giặt giẻ lau sâu"
+      },
+      "hot_washing": {
+        "name": "Giặt nước nóng"
+      },
+      "auto_drying": {
+        "name": "Tự động sấy khô"
+      },
+      "silent_drying": {
+        "name": "Sấy khô yên tĩnh"
+      },
+      "uv_sterilization": {
+        "name": "Khử trùng bằng tia UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Làm sạch tùy chỉnh"
+      },
+      "carpet_avoidance": {
+        "name": "Tránh thảm"
+      },
+      "carpet_preferences": {
+        "name": "Sở thích tùy chỉnh"
+      },
+      "auto_change_mop": {
+        "name": "Tự động thay giẻ lau"
+      },
+      "multi_floor_map": {
+        "name": "Bản đồ nhiều tầng"
+      },
+      "intelligent_recognition": {
+        "name": "Nhận dạng thông minh"
+      },
+      "map_saving": {
+        "name": "Lưu bản đồ"
+      },
+      "child_lock": {
+        "name": "Khóa trẻ em"
+      },
+      "resume_cleaning": {
+        "name": "Tiếp tục làm sạch"
+      },
+      "obstacle_avoidance": {
+        "name": "Tránh vật cản"
+      },
+      "carpet_boost": {
+        "name": "Tăng lực hút trên thảm"
+      },
+      "carpet_recognition": {
+        "name": "Nhận dạng thảm"
+      },
+      "clean_carpets_first": {
+        "name": "Làm sạch thảm trước"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Đóng nắp chổi lăn trên thảm"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Làm sạch thảm chuyên sâu"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Quay chổi cạnh trên thảm"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Nâng khung gầm trên thảm"
+      },
+      "auto_mount_mop": {
+        "name": "Tự động lắp giẻ lau"
+      },
+      "mopping_with_detergent": {
+        "name": "Lau với chất tẩy rửa"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Giặt giẻ lau với chất tẩy rửa"
+      },
+      "auto_add_detergent": {
+        "name": "Tự động thêm chất tẩy rửa"
+      },
+      "smart_mop_washing": {
+        "name": "Giặt giẻ lau thông minh"
+      },
+      "wider_corner_coverage": {
+        "name": "Độ bao phủ góc rộng hơn"
+      },
+      "pressurized_cleaning": {
+        "name": "Làm sạch có áp lực"
+      },
+      "gap_cleaning_extension": {
+        "name": "Mở rộng làm sạch khe hở"
+      },
+      "mopping_under_furnitures": {
+        "name": "Lau dưới các đồ nội thất"
+      },
+      "floor_direction_cleaning": {
+        "name": "Làm sạch theo hướng sàn"
+      },
+      "ring_light_always_on": {
+        "name": "Đèn vòng luôn bật"
+      },
+      "collision_avoidance": {
+        "name": "Tránh va chạm"
+      },
+      "fill_light": {
+        "name": "Đèn camera"
+      },
+      "ai_obstacle_detection": {
+        "name": "Phát hiện vật cản bằng AI"
+      },
+      "ai_pet_detection": {
+        "name": "Phát hiện thú cưng"
+      },
+      "pet_focused_detection": {
+        "name": "Phát hiện tập trung vào thú cưng"
+      },
+      "pet_focused_cleaning": {
+        "name": "Làm sạch tập trung vào thú cưng"
+      },
+      "ai_obstacle_picture": {
+        "name": "Hình ảnh vật cản"
+      },
+      "obstacle_crossing": {
+        "name": "Vượt vật cản đồng bộ"
+      },
+      "active_suspension_crossing": {
+        "name": "Vượt bằng hệ thống treo chủ động"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Làm sạch vật cản động"
+      },
+      "large_particles_boost": {
+        "name": "Tăng cường cho hạt lớn"
+      },
+      "streaming_voice_prompt": {
+        "name": "Lời nhắc giọng nói khi truyền phát"
+      },
+      "voice_assistant": {
+        "name": "Trợ lý giọng nói"
+      },
+      "off_peak_charging": {
+        "name": "Sạc giờ thấp điểm"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Tắt tiếp tục làm sạch"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Tắt tự động đổ rác"
+      },
+      "dnd_reduce_volume": {
+        "name": "Giảm âm lượng"
+      },
+      "dnd": {
+        "name": "Chế độ không làm phiền (DnD)"
+      }
     }
   },
   "entity_component": {

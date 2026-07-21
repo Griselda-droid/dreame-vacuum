@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Nuorodos pavadinimas"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Pasirinktinis valymas"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "Gilus valymas"
+      },
+      "auto_dust_collecting": {
+        "name": "Automatinis dulkių surinkimas"
+      },
+      "hair_compression": {
+        "name": "Plaukų suspaudimas"
+      },
+      "self_clean": {
+        "name": "Savaiminis išsivalymas"
+      },
+      "deep_mop_washing": {
+        "name": "Gilus šluostės plovimas"
+      },
+      "hot_washing": {
+        "name": "Plovimas karštu vandeniu"
+      },
+      "auto_drying": {
+        "name": "Automatinis džiovinimas"
+      },
+      "silent_drying": {
+        "name": "Tylusis džiovinimas"
+      },
+      "uv_sterilization": {
+        "name": "UV sterilizacija"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Pasirinktinis kilimų valymas"
+      },
+      "carpet_avoidance": {
+        "name": "Kilimų vengimas"
+      },
+      "carpet_preferences": {
+        "name": "Pasirinktiniai nustatymai"
+      },
+      "auto_change_mop": {
+        "name": "Automatinis šluostės keitimas"
+      },
+      "multi_floor_map": {
+        "name": "Daugiapakopis žemėlapis"
+      },
+      "intelligent_recognition": {
+        "name": "Išmanusis atpažinimas"
+      },
+      "map_saving": {
+        "name": "Žemėlapio išsaugojimas"
+      },
+      "child_lock": {
+        "name": "Apsauga nuo vaikų"
+      },
+      "resume_cleaning": {
+        "name": "Tęsti valymą"
+      },
+      "obstacle_avoidance": {
+        "name": "Kliūčių išvengimas"
+      },
+      "carpet_boost": {
+        "name": "Kilimų galios padidinimas"
+      },
+      "carpet_recognition": {
+        "name": "Kilimų atpažinimas"
+      },
+      "clean_carpets_first": {
+        "name": "Pirmiausia valyti kilimus"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Uždaryti ritininės dalies dangtį ant kilimo"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensyvus kilimų valymas"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Šoninis šepetys sukasi ant kilimo"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Pakelti važiuoklę ant kilimo"
+      },
+      "auto_mount_mop": {
+        "name": "Automatinis šluostės uždėjimas"
+      },
+      "mopping_with_detergent": {
+        "name": "Plovimas su valikliu"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Šluostės plovimas su valikliu"
+      },
+      "auto_add_detergent": {
+        "name": "Automatiškai pridėti valiklio"
+      },
+      "smart_mop_washing": {
+        "name": "Išmanusis šluostės plovimas"
+      },
+      "wider_corner_coverage": {
+        "name": "Platesnė kampų aprėptis"
+      },
+      "pressurized_cleaning": {
+        "name": "Valymas su slėgiu"
+      },
+      "gap_cleaning_extension": {
+        "name": "Tarpų valymas su išplėtimu"
+      },
+      "mopping_under_furnitures": {
+        "name": "Plovimas po baldais"
+      },
+      "floor_direction_cleaning": {
+        "name": "Valymas grindų kryptimi"
+      },
+      "ring_light_always_on": {
+        "name": "Apvalus apšvietimas visada įjungtas"
+      },
+      "collision_avoidance": {
+        "name": "Apsauga nuo susidūrimų"
+      },
+      "fill_light": {
+        "name": "Kameros šviesa"
+      },
+      "ai_obstacle_detection": {
+        "name": "Dirbtinio intlekto kliūčių aptikimas"
+      },
+      "ai_pet_detection": {
+        "name": "Gyvūnų aptikimas"
+      },
+      "pet_focused_detection": {
+        "name": "Gyvūnams skirtas aptikimas"
+      },
+      "pet_focused_cleaning": {
+        "name": "Gyvūnams skirtas valymas"
+      },
+      "ai_obstacle_picture": {
+        "name": "Kliūčių nuotraukos"
+      },
+      "obstacle_crossing": {
+        "name": "Sinchronizuotas kliūčių kirtimas"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktyvios pakabos kliūčių kirtimas"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Judančių kliūčių valymas"
+      },
+      "large_particles_boost": {
+        "name": "Didelių dalelių valymo galios padidinimas"
+      },
+      "streaming_voice_prompt": {
+        "name": "Perduodamas balso nurodymas"
+      },
+      "voice_assistant": {
+        "name": "Balso asistentas"
+      },
+      "off_peak_charging": {
+        "name": "Įkrovimas ne piko metu"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Išjungti valymo tęsimą"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Išjungti automatinį ištuštinimą"
+      },
+      "dnd_reduce_volume": {
+        "name": "Sumažinti garsumą"
+      },
+      "dnd": {
+        "name": "Netrukdymo režimas (DnD)"
+      }
     }
   },
   "entity_component": {

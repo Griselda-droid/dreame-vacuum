@@ -1476,6 +1476,179 @@
         "name": "DnD"
       }
     },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Customized Cleaning"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "Deep Cleaning"
+      },
+      "auto_dust_collecting": {
+        "name": "Auto-Empty"
+      },
+      "hair_compression": {
+        "name": "Hair Compression"
+      },
+      "self_clean": {
+        "name": "Self-Clean"
+      },
+      "deep_mop_washing": {
+        "name": "Deep Mop Washing"
+      },
+      "hot_washing": {
+        "name": "Hot Washing"
+      },
+      "auto_drying": {
+        "name": "Auto Drying"
+      },
+      "silent_drying": {
+        "name": "Silent Drying"
+      },
+      "uv_sterilization": {
+        "name": "UV Sterilization"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Customized Cleaning"
+      },
+      "carpet_avoidance": {
+        "name": "Carpet Avoidance"
+      },
+      "carpet_preferences": {
+        "name": "Customized Preferences"
+      },
+      "auto_change_mop": {
+        "name": "Auto Mop Changing"
+      },
+      "multi_floor_map": {
+        "name": "Multi-Floor Map"
+      },
+      "intelligent_recognition": {
+        "name": "Intelligent Recognition"
+      },
+      "map_saving": {
+        "name": "Map Saving"
+      },
+      "child_lock": {
+        "name": "Child Lock"
+      },
+      "resume_cleaning": {
+        "name": "Resume Cleaning"
+      },
+      "obstacle_avoidance": {
+        "name": "Obstacle Avoidance"
+      },
+      "carpet_boost": {
+        "name": "Carpet Boost"
+      },
+      "carpet_recognition": {
+        "name": "Carpet Recognition"
+      },
+      "clean_carpets_first": {
+        "name": "Clean Carpets First"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Close Roller Cover on Carpet"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensive Carpet Cleaning"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Side Brush Carpet Rotate"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Lift Chassis on Carpet"
+      },
+      "auto_mount_mop": {
+        "name": "Auto Mop Mounting"
+      },
+      "mopping_with_detergent": {
+        "name": "Mopping With Detergent"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mop-Washing With Detergent"
+      },
+      "auto_add_detergent": {
+        "name": "Auto Add Detergent"
+      },
+      "smart_mop_washing": {
+        "name": "Smart Mop Washing"
+      },
+      "wider_corner_coverage": {
+        "name": "Wider Corner Coverage"
+      },
+      "pressurized_cleaning": {
+        "name": "Pressurized Cleaning"
+      },
+      "gap_cleaning_extension": {
+        "name": "Gap Cleaning Extension"
+      },
+      "mopping_under_furnitures": {
+        "name": "Mopping Under Furnitures"
+      },
+      "floor_direction_cleaning": {
+        "name": "Floor Direction Cleaning"
+      },
+      "ring_light_always_on": {
+        "name": "Ring Light Always On"
+      },
+      "collision_avoidance": {
+        "name": "Collision Avoidance"
+      },
+      "fill_light": {
+        "name": "Camera Light"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI Obstacle Detection"
+      },
+      "ai_pet_detection": {
+        "name": "Pet Detection"
+      },
+      "pet_focused_detection": {
+        "name": "Pet Focused Detection"
+      },
+      "pet_focused_cleaning": {
+        "name": "Pet Focused Cleaning"
+      },
+      "ai_obstacle_picture": {
+        "name": "Obstacle Pictures"
+      },
+      "obstacle_crossing": {
+        "name": "Synchronized Obstacle Crossing"
+      },
+      "active_suspension_crossing": {
+        "name": "Active Suspension Crossing"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dynamic Obstacle Cleaning"
+      },
+      "large_particles_boost": {
+        "name": "Large Particles Boost"
+      },
+      "streaming_voice_prompt": {
+        "name": "Streaming Voice Prompt"
+      },
+      "voice_assistant": {
+        "name": "Voice Assistant"
+      },
+      "off_peak_charging": {
+        "name": "Off-Peak Charging"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Disable Resume Cleaning"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Disable Auto Empty"
+      },
+      "dnd_reduce_volume": {
+        "name": "Reduce Volume"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
+    },
     "number": {
       "wetness_level": {
         "name": "Wetness"

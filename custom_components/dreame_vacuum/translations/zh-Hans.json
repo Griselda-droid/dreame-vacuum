@@ -221,8 +221,8 @@
         "name": "仿生外扩频率",
         "state": {
           "standard": "标准",
-          "intelligent": "聪明的",
-          "high": "高的"
+          "intelligent": "智能",
+          "high": "高"
         }
       },
       "floor_material": {
@@ -333,8 +333,8 @@
       "floor_material_direction": {
         "name": "地板方向",
         "state": {
-          "vertical": "垂直的",
-          "horizontal": "水平的"
+          "vertical": "垂直",
+          "horizontal": "水平"
         }
       },
       "visibility": {
@@ -355,27 +355,27 @@
       "cleangenius_mode": {
         "name": "CleanGenius 模式",
         "state": {
-          "vacuum_and_mop": "真空和拖把",
-          "mop_after_vacuum": "真空后的拖把"
+          "vacuum_and_mop": "扫拖同时",
+          "mop_after_vacuum": "先扫后拖"
         }
       },
       "washing_mode": {
         "name": "清洗模式",
         "state": {
           "smart": "智能",
-          "light": "光",
+          "light": "轻柔",
           "standard": "标准",
-          "deep": "深的",
-          "ultra_washing": "超清洗"
+          "deep": "深度",
+          "ultra_washing": "超强清洗"
         }
       },
       "water_temperature": {
         "name": "清洗水温",
         "state": {
-          "normal": "普通的",
-          "mild": "温和的",
-          "warm": "温暖的",
-          "hot": "热的",
+          "normal": "常温",
+          "mild": "温和",
+          "warm": "温热",
+          "hot": "热水",
           "max": "最高"
         }
       },
@@ -383,16 +383,16 @@
         "name": "自动二次清扫",
         "state": {
           "off": "关闭",
-          "in_deep_mode": "在深度模式",
-          "in_all_modes": "在所有模式"
+          "in_deep_mode": "深度模式中",
+          "in_all_modes": "所有模式中"
         }
       },
       "auto_rewashing": {
         "name": "自动二次洗布",
         "state": {
           "off": "关闭",
-          "in_deep_mode": "在深度模式",
-          "in_all_modes": "在所有模式"
+          "in_deep_mode": "深度模式中",
+          "in_all_modes": "所有模式中"
         }
       },
       "cleaning_route": {
@@ -725,8 +725,8 @@
           "summon_clean_paused": "召唤清洁暂停",
           "returning_to_install_mop": "返回安装拖布",
           "returning_to_remove_mop": "返回卸下拖布",
-          "station_cleaning": "车站清洁",
-          "pet_finding": "宠物发现",
+          "station_cleaning": "基站清洁",
+          "pet_finding": "寻找宠物",
           "auto_cleaning_washing_paused": "自动清洁洗涤暂停",
           "area_cleaning_washing_paused": "区域清洗暂停",
           "custom_cleaning_washing_paused": "定制清洗暂停",
@@ -978,34 +978,34 @@
           "unknown": "未知",
           "not_available": "无法使用",
           "not_installed": "未安装",
-          "low_water": "枯水",
-          "installed": "安装"
+          "low_water": "缺水",
+          "installed": "已安装"
         }
       },
       "dirty_water_tank_status": {
         "name": "污水箱状态",
         "state": {
           "unknown": "未知",
-          "installed": "安装",
-          "not_installed_or_full": "未安装或完整"
+          "installed": "已安装",
+          "not_installed_or_full": "未安装或已满"
         }
       },
       "dust_bag_status": {
         "name": "尘袋状态",
         "state": {
           "unknown": "未知",
-          "installed": "安装",
+          "installed": "已安装",
           "not_installed": "未安装",
-          "check": "查看"
+          "check": "检查"
         }
       },
       "detergent_status": {
         "name": "清洁液状态",
         "state": {
           "unknown": "未知",
-          "installed": "安装",
+          "installed": "已安装",
           "disabled": "禁用",
-          "low_detergent": "低洗涤剂"
+          "low_detergent": "清洁液不足"
         }
       },
       "hot_water_status": {
@@ -1020,7 +1020,7 @@
         "name": "基站排空状态",
         "state": {
           "unknown": "未知",
-          "idle": "闲置的",
+          "idle": "待机中",
           "draining": "排水"
         }
       },
@@ -1070,7 +1070,7 @@
       "dust_bag_drying_status": {
         "name": "尘袋烘干状态",
         "state": {
-          "idle": "空闲",
+          "idle": "待机中",
           "drying": "烘干中",
           "paused": "已暂停"
         }

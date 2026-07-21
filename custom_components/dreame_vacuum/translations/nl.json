@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Snelkoppelingsnaam"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Gepersonaliseerde reiniging"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Grondige reiniging"
+      },
+      "auto_dust_collecting": {
+        "name": "Automatisch legen"
+      },
+      "hair_compression": {
+        "name": "Haarcompressie"
+      },
+      "self_clean": {
+        "name": "Zelfreiniging"
+      },
+      "deep_mop_washing": {
+        "name": "Grondige dweilwas"
+      },
+      "hot_washing": {
+        "name": "Wassen met heet water"
+      },
+      "auto_drying": {
+        "name": "Automatisch drogen"
+      },
+      "silent_drying": {
+        "name": "Stil drogen"
+      },
+      "uv_sterilization": {
+        "name": "UV-sterilisatie"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Gepersonaliseerde reiniging"
+      },
+      "carpet_avoidance": {
+        "name": "Tapijt vermijden"
+      },
+      "carpet_preferences": {
+        "name": "Gepersonaliseerde voorkeuren"
+      },
+      "auto_change_mop": {
+        "name": "Automatische dweilwissel"
+      },
+      "multi_floor_map": {
+        "name": "Meerlaagse kaart"
+      },
+      "intelligent_recognition": {
+        "name": "Intelligente herkenning"
+      },
+      "map_saving": {
+        "name": "Kaart opslaan"
+      },
+      "child_lock": {
+        "name": "Kinderslot"
+      },
+      "resume_cleaning": {
+        "name": "Reiniging hervatten"
+      },
+      "obstacle_avoidance": {
+        "name": "Obstakelvermijding"
+      },
+      "carpet_boost": {
+        "name": "Tapijt boost"
+      },
+      "carpet_recognition": {
+        "name": "Tapijtherkenning"
+      },
+      "clean_carpets_first": {
+        "name": "Tapijten eerst reinigen"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Rolborstelkap sluiten op tapijt"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensieve tapijtreiniging"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Zijborstelrotatie op tapijt"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Chassis optillen op tapijt"
+      },
+      "auto_mount_mop": {
+        "name": "Automatische dweilmontage"
+      },
+      "mopping_with_detergent": {
+        "name": "Dweilen met reinigingsmiddel"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Dweil wassen mit reinigingsmiddel"
+      },
+      "auto_add_detergent": {
+        "name": "Automatisch reinigingsmiddel toevoegen"
+      },
+      "smart_mop_washing": {
+        "name": "Slimme dweilwas"
+      },
+      "wider_corner_coverage": {
+        "name": "Bredere hoekdekking"
+      },
+      "pressurized_cleaning": {
+        "name": "Onder druk reinigen"
+      },
+      "gap_cleaning_extension": {
+        "name": "Spleetreiniging uitbreiding"
+      },
+      "mopping_under_furnitures": {
+        "name": "Dweilen onder meubels"
+      },
+      "floor_direction_cleaning": {
+        "name": "Reinigen in vloerrichting"
+      },
+      "ring_light_always_on": {
+        "name": "Ringlicht altijd aan"
+      },
+      "collision_avoidance": {
+        "name": "Botsvermijding"
+      },
+      "fill_light": {
+        "name": "Cameralicht"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI-obstakeldetectie"
+      },
+      "ai_pet_detection": {
+        "name": "Huisdierdetectie"
+      },
+      "pet_focused_detection": {
+        "name": "Huisdiergerichte detectie"
+      },
+      "pet_focused_cleaning": {
+        "name": "Huisdiergerichte reiniging"
+      },
+      "ai_obstacle_picture": {
+        "name": "Obstakelfoto's"
+      },
+      "obstacle_crossing": {
+        "name": "Gesynchroniseerde obstakeloversteek"
+      },
+      "active_suspension_crossing": {
+        "name": "Actieve ophanging oversteek"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dynamische obstakelreiniging"
+      },
+      "large_particles_boost": {
+        "name": "Grote deeltjes boost"
+      },
+      "streaming_voice_prompt": {
+        "name": "Streaming spraakbericht"
+      },
+      "voice_assistant": {
+        "name": "Spraakassistent"
+      },
+      "off_peak_charging": {
+        "name": "Opladen tijdens daluren"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Hervatten reiniging uitschakelen"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Automatisch legen uitschakelen"
+      },
+      "dnd_reduce_volume": {
+        "name": "Volume verlagen"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

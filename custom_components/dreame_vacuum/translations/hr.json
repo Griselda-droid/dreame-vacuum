@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Ime prečaca"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Prilagođeno čišćenje"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Dubinsko čišćenje"
+      },
+      "auto_dust_collecting": {
+        "name": "Automatsko pražnjenje"
+      },
+      "hair_compression": {
+        "name": "Zbijanje kose/dlaka"
+      },
+      "self_clean": {
+        "name": "Samočišćenje"
+      },
+      "deep_mop_washing": {
+        "name": "Dubinsko pranje krpe"
+      },
+      "hot_washing": {
+        "name": "Pranje toplom vodom"
+      },
+      "auto_drying": {
+        "name": "Automatsko sušenje"
+      },
+      "silent_drying": {
+        "name": "Tiho sušenje"
+      },
+      "uv_sterilization": {
+        "name": "UV sterilizacija"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Prilagođeno čišćenje tepiha"
+      },
+      "carpet_avoidance": {
+        "name": "Izbjegavanje tepiha"
+      },
+      "carpet_preferences": {
+        "name": "Prilagođene postavke"
+      },
+      "auto_change_mop": {
+        "name": "Automatska zamjena krpe"
+      },
+      "multi_floor_map": {
+        "name": "Karta za više katova"
+      },
+      "intelligent_recognition": {
+        "name": "Inteligentno prepoznavanje"
+      },
+      "map_saving": {
+        "name": "Spremanje karte"
+      },
+      "child_lock": {
+        "name": "Dječja brava"
+      },
+      "resume_cleaning": {
+        "name": "Nastavi s čišćenjem"
+      },
+      "obstacle_avoidance": {
+        "name": "Izbjegavanje prepreka"
+      },
+      "carpet_boost": {
+        "name": "Pojačanje na tepihu"
+      },
+      "carpet_recognition": {
+        "name": "Prepoznavanje tepiha"
+      },
+      "clean_carpets_first": {
+        "name": "Prvo očisti tepihe"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Zatvori poklopac valjka na tepihu"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intenzivno čišćenje tepiha"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Rotacija bočne četke na tepihu"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Podizanje podvozja na tepihu"
+      },
+      "auto_mount_mop": {
+        "name": "Automatsko postavljanje krpe"
+      },
+      "mopping_with_detergent": {
+        "name": "Brisanje s deterdžentom"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Pranje krpe s deterdžentom"
+      },
+      "auto_add_detergent": {
+        "name": "Automatsko dodavanje deterdženta"
+      },
+      "smart_mop_washing": {
+        "name": "Pametno pranje krpe"
+      },
+      "wider_corner_coverage": {
+        "name": "Šira pokrivenost kutova"
+      },
+      "pressurized_cleaning": {
+        "name": "Čišćenje pod pritiskom"
+      },
+      "gap_cleaning_extension": {
+        "name": "Proširenje za čišćenje pukotina"
+      },
+      "mopping_under_furnitures": {
+        "name": "Brisanje ispod namještaja"
+      },
+      "floor_direction_cleaning": {
+        "name": "Čišćenje u smjeru poda"
+      },
+      "ring_light_always_on": {
+        "name": "Prstenasto svjetlo uvijek uključeno"
+      },
+      "collision_avoidance": {
+        "name": "Izbjegavanje sudara"
+      },
+      "fill_light": {
+        "name": "Svjetlo kamere"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI detekcija prepreka"
+      },
+      "ai_pet_detection": {
+        "name": "Prepoznavanje ljubimaca"
+      },
+      "pet_focused_detection": {
+        "name": "Ljubimcima fokusirano prepoznavanje"
+      },
+      "pet_focused_cleaning": {
+        "name": "Ljubimcima fokusirano čišćenje"
+      },
+      "ai_obstacle_picture": {
+        "name": "Slika prepreka"
+      },
+      "obstacle_crossing": {
+        "name": "Sinkronizirano prelaženje prepreka"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktivno ovjesno prelaženje"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dinamično čišćenje prepreka"
+      },
+      "large_particles_boost": {
+        "name": "Pojačanje za velike čestice"
+      },
+      "streaming_voice_prompt": {
+        "name": "Glasovni odzivi (Streaming Voice Prompt)"
+      },
+      "voice_assistant": {
+        "name": "Glasovni asistent"
+      },
+      "off_peak_charging": {
+        "name": "Punjenje izvan vršnog opterećenja"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Onemogući nastavak čišćenja"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Onemogući automatsko pražnjenje"
+      },
+      "dnd_reduce_volume": {
+        "name": "Smanji glasnoću"
+      },
+      "dnd": {
+        "name": "Ne ometaj (DnD)"
+      }
     }
   },
   "entity_component": {

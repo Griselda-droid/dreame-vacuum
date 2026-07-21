@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Назва ярлика"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Індивідуальне прибирання"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Ретельне прибирання"
+      },
+      "auto_dust_collecting": {
+        "name": "Автоматичне вивантаження сміття"
+      },
+      "hair_compression": {
+        "name": "Ущільнення волосся"
+      },
+      "self_clean": {
+        "name": "Самоочищення"
+      },
+      "deep_mop_washing": {
+        "name": "Ретельне миття швабри"
+      },
+      "hot_washing": {
+        "name": "Миття гарячою водою"
+      },
+      "auto_drying": {
+        "name": "Автоматичне сушіння"
+      },
+      "silent_drying": {
+        "name": "Тихе сушіння"
+      },
+      "uv_sterilization": {
+        "name": "УФ-стерилізація"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Індивідуальне прибирання"
+      },
+      "carpet_avoidance": {
+        "name": "Уникати килимів"
+      },
+      "carpet_preferences": {
+        "name": "Індивідуальні налаштування"
+      },
+      "auto_change_mop": {
+        "name": "Автозміна швабри"
+      },
+      "multi_floor_map": {
+        "name": "Багаторівнева карта"
+      },
+      "intelligent_recognition": {
+        "name": "Розумне розпізнавання"
+      },
+      "map_saving": {
+        "name": "Збереження карти"
+      },
+      "child_lock": {
+        "name": "Блокування від дітей"
+      },
+      "resume_cleaning": {
+        "name": "Відновлення прибирання"
+      },
+      "obstacle_avoidance": {
+        "name": "Обхід перешкод"
+      },
+      "carpet_boost": {
+        "name": "Турбо режим на килимах"
+      },
+      "carpet_recognition": {
+        "name": "Розпізнавання килимів"
+      },
+      "clean_carpets_first": {
+        "name": "Спочатку прибирання килимів"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Закривати кожух на килимі"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Інтенсивне прибирання килимів"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Обертання бічної щітки на килимі"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Підйом шасі на килимі"
+      },
+      "auto_mount_mop": {
+        "name": "Автоматичне встановлення швабри"
+      },
+      "mopping_with_detergent": {
+        "name": "Миття з миючим засобом"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Миття швабри із засобом"
+      },
+      "auto_add_detergent": {
+        "name": "Автододавання засобу"
+      },
+      "smart_mop_washing": {
+        "name": "Розумне миття швабри"
+      },
+      "wider_corner_coverage": {
+        "name": "Ширше охоплення кутів"
+      },
+      "pressurized_cleaning": {
+        "name": "Прибирання під тиском"
+      },
+      "gap_cleaning_extension": {
+        "name": "Прибирання вздовж щілин"
+      },
+      "mopping_under_furnitures": {
+        "name": "Миття під меблями"
+      },
+      "floor_direction_cleaning": {
+        "name": "Прибирання за напрямком підлоги"
+      },
+      "ring_light_always_on": {
+        "name": "Підсвічування завжди увімкнене"
+      },
+      "collision_avoidance": {
+        "name": "Запобігання зіткненням"
+      },
+      "fill_light": {
+        "name": "Підсвічування камери"
+      },
+      "ai_obstacle_detection": {
+        "name": "ШІ-розпізнавання перешкод"
+      },
+      "ai_pet_detection": {
+        "name": "Розпізнавання тварин"
+      },
+      "pet_focused_detection": {
+        "name": "Виявлення тварин"
+      },
+      "pet_focused_cleaning": {
+        "name": "Прибирання за тваринами"
+      },
+      "ai_obstacle_picture": {
+        "name": "Фотографії перешкод"
+      },
+      "obstacle_crossing": {
+        "name": "Подолання перешкод"
+      },
+      "active_suspension_crossing": {
+        "name": "Подолання з активною підвіскою"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Динамічне прибирання"
+      },
+      "large_particles_boost": {
+        "name": "Турбо для великих часток"
+      },
+      "streaming_voice_prompt": {
+        "name": "Голосові підказки streaming"
+      },
+      "voice_assistant": {
+        "name": "Голосовий помічник"
+      },
+      "off_peak_charging": {
+        "name": "Зарядка в нічний час"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Не відновлювати прибирання"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Вимкнути автовивантаження"
+      },
+      "dnd_reduce_volume": {
+        "name": "Знизити гучність"
+      },
+      "dnd": {
+        "name": "Режим «Не турбувати»"
+      }
     }
   },
   "entity_component": {

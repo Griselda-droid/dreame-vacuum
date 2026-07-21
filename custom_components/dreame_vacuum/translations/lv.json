@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Saīsnes nosaukums"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Pielāgota tīrīšana"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "Dziļā tīrīšana"
+      },
+      "auto_dust_collecting": {
+        "name": "Automātiska iztukšošana"
+      },
+      "hair_compression": {
+        "name": "Matu saspiešana"
+      },
+      "self_clean": {
+        "name": "Pašattīrīšanās"
+      },
+      "deep_mop_washing": {
+        "name": "Dziļā mopa mazgāšana"
+      },
+      "hot_washing": {
+        "name": "Mazgāšana ar karstu ūdeni"
+      },
+      "auto_drying": {
+        "name": "Automātiska žāvēšana"
+      },
+      "silent_drying": {
+        "name": "Klusā žāvēšana"
+      },
+      "uv_sterilization": {
+        "name": "UV sterilizācija"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Pielāgota tīrīšana"
+      },
+      "carpet_avoidance": {
+        "name": "Izvairīšanās no paklājiem"
+      },
+      "carpet_preferences": {
+        "name": "Pielāgotas izvēles"
+      },
+      "auto_change_mop": {
+        "name": "Automātiska mopa maiņa"
+      },
+      "multi_floor_map": {
+        "name": "Vairāku stāvu karte"
+      },
+      "intelligent_recognition": {
+        "name": "Inteliģentā atpazīšana"
+      },
+      "map_saving": {
+        "name": "Kartes saglabāšana"
+      },
+      "child_lock": {
+        "name": "Bērnu aizsardzība"
+      },
+      "resume_cleaning": {
+        "name": "Atsākt tīrīšanu"
+      },
+      "obstacle_avoidance": {
+        "name": "Izvairīšanās no šķēršļiem"
+      },
+      "carpet_boost": {
+        "name": "Paklāju pastiprināšana"
+      },
+      "carpet_recognition": {
+        "name": "Paklāju atpazīšana"
+      },
+      "clean_carpets_first": {
+        "name": "Tīrīt paklājus pirmajā vietā"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Aizvērt rullīšu vāku uz paklāja"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensīvā paklāju tīrīšana"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Sānu birstes griešanās uz paklāja"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Pacelt šasiju uz paklāja"
+      },
+      "auto_mount_mop": {
+        "name": "Automātiska mopa uzstādīšana"
+      },
+      "mopping_with_detergent": {
+        "name": "Mazgāšana ar mazgāšanas līdzekli"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mopa mazgāšana ar mazgāšanas līdzekli"
+      },
+      "auto_add_detergent": {
+        "name": "Automātiska mazgāšanas līdzekļa pievienošana"
+      },
+      "smart_mop_washing": {
+        "name": "Viedā mopa mazgāšana"
+      },
+      "wider_corner_coverage": {
+        "name": "Plašāks stūru pārklājums"
+      },
+      "pressurized_cleaning": {
+        "name": "Tīrīšana ar spiedienu"
+      },
+      "gap_cleaning_extension": {
+        "name": "Spraugu tīrīšanas paplašinājums"
+      },
+      "mopping_under_furnitures": {
+        "name": "Mazgāšana zem mēbelēm"
+      },
+      "floor_direction_cleaning": {
+        "name": "Tīrīšana grīdas virzienā"
+      },
+      "ring_light_always_on": {
+        "name": "Gredzena gaisma vienmēr ieslēgta"
+      },
+      "collision_avoidance": {
+        "name": "Izvairīšanās no sadursmēm"
+      },
+      "fill_light": {
+        "name": "Kameras gaisma"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI šķēršļu atpazīšana"
+      },
+      "ai_pet_detection": {
+        "name": "Mājdzīvnieku atpazīšana"
+      },
+      "pet_focused_detection": {
+        "name": "Uz mājdzīvniekiem vērsta atpazīšana"
+      },
+      "pet_focused_cleaning": {
+        "name": "Uz mājdzīvniekiem vērsta tīrīšana"
+      },
+      "ai_obstacle_picture": {
+        "name": "Šķēršļu attēli"
+      },
+      "obstacle_crossing": {
+        "name": "Sinhronizēta šķēršļu pārvarēšana"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktīvās balstiekārtas šķērsošana"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dinamiska šķēršļu tīrīšana"
+      },
+      "large_particles_boost": {
+        "name": "Lielo daļiņu pastiprināšana"
+      },
+      "streaming_voice_prompt": {
+        "name": "Straumēšanas balss uzvedne"
+      },
+      "voice_assistant": {
+        "name": "Balss asistents"
+      },
+      "off_peak_charging": {
+        "name": "Uzlāde ārpus sastrēgumstundām"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Atspējot tīrīšanas atsākšanu"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Atspējot automātisko iztukšošanu"
+      },
+      "dnd_reduce_volume": {
+        "name": "Samazināt skaļumu"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

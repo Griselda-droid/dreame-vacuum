@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Nama Pintasan"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Pembersihan Tersuai"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "Pembersihan Mendalam"
+      },
+      "auto_dust_collecting": {
+        "name": "Auto-Kosong"
+      },
+      "hair_compression": {
+        "name": "Mampatan Rambut"
+      },
+      "self_clean": {
+        "name": "Cuci Kendiri"
+      },
+      "deep_mop_washing": {
+        "name": "Basuhan Mop Mendalam"
+      },
+      "hot_washing": {
+        "name": "Basuhan Panas"
+      },
+      "auto_drying": {
+        "name": "Pengeringan Auto"
+      },
+      "silent_drying": {
+        "name": "Pengeringan Senyap"
+      },
+      "uv_sterilization": {
+        "name": "Pensterilan UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Pembersihan Tersuai"
+      },
+      "carpet_avoidance": {
+        "name": "Pengelakan Karpet"
+      },
+      "carpet_preferences": {
+        "name": "Keutamaan Tersuai"
+      },
+      "auto_change_mop": {
+        "name": "Penukaran Mop Auto"
+      },
+      "multi_floor_map": {
+        "name": "Peta Berbilang Tingkat"
+      },
+      "intelligent_recognition": {
+        "name": "Pengiktirafan Pintar"
+      },
+      "map_saving": {
+        "name": "Penyimpanan Peta"
+      },
+      "child_lock": {
+        "name": "Kunci Kanak-Kanak"
+      },
+      "resume_cleaning": {
+        "name": "Sambung Pembersihan"
+      },
+      "obstacle_avoidance": {
+        "name": "Pengelakan Halangan"
+      },
+      "carpet_boost": {
+        "name": "Galakan Karpet"
+      },
+      "carpet_recognition": {
+        "name": "Pengiktirafan Karpet"
+      },
+      "clean_carpets_first": {
+        "name": "Bersihkan Karpet Dahulu"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Tutup Penutup Penggelek pada Karpet"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Pembersihan Karpet Intensif"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Putaran Berus Sisi Karpet"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Angkat Casis pada Karpet"
+      },
+      "auto_mount_mop": {
+        "name": "Pemasangan Mop Auto"
+      },
+      "mopping_with_detergent": {
+        "name": "Mengemop Dengan Pencuci"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mencuci Mop Dengan Pencuci"
+      },
+      "auto_add_detergent": {
+        "name": "Tambah Pencuci Auto"
+      },
+      "smart_mop_washing": {
+        "name": "Basuhan Mop Pintar"
+      },
+      "wider_corner_coverage": {
+        "name": "Liputan Sudut Lebih Luas"
+      },
+      "pressurized_cleaning": {
+        "name": "Pembersihan Bertekanan"
+      },
+      "gap_cleaning_extension": {
+        "name": "Sambungan Pembersihan Ruang"
+      },
+      "mopping_under_furnitures": {
+        "name": "Mengemop Bawah Perabot"
+      },
+      "floor_direction_cleaning": {
+        "name": "Pembersihan Mengikut Arah Lantai"
+      },
+      "ring_light_always_on": {
+        "name": "Lampu Cincin Sentiasa Terpasang"
+      },
+      "collision_avoidance": {
+        "name": "Pengelakan Pelanggaran"
+      },
+      "fill_light": {
+        "name": "Lampu Kamera"
+      },
+      "ai_obstacle_detection": {
+        "name": "Pengesanan Halangan AI"
+      },
+      "ai_pet_detection": {
+        "name": "Pengesanan Haiwan Peliharaan"
+      },
+      "pet_focused_detection": {
+        "name": "Pengesanan Memfokus Haiwan Peliharaan"
+      },
+      "pet_focused_cleaning": {
+        "name": "Pembersihan Memfokus Haiwan Peliharaan"
+      },
+      "ai_obstacle_picture": {
+        "name": "Gambar Halangan"
+      },
+      "obstacle_crossing": {
+        "name": "Merentasi Halangan Disegerakkan"
+      },
+      "active_suspension_crossing": {
+        "name": "Merentasi Ampaian Aktif"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Pembersihan Halangan Dinamik"
+      },
+      "large_particles_boost": {
+        "name": "Galakan Zarah Besar"
+      },
+      "streaming_voice_prompt": {
+        "name": "Gesaan Suara Penstriman"
+      },
+      "voice_assistant": {
+        "name": "Pembantu Suara"
+      },
+      "off_peak_charging": {
+        "name": "Pengecasan Luar Waktu Puncak"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Lumpuhkan Sambung Pembersihan"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Lumpuhkan Auto Kosong"
+      },
+      "dnd_reduce_volume": {
+        "name": "Kurangkan Isipadu"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Όνομα συντόμευσης"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Προσαρμοσμένος καθαρισμός"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Βαθύς καθαρισμός"
+      },
+      "auto_dust_collecting": {
+        "name": "Αυτόματο άδειασμα"
+      },
+      "hair_compression": {
+        "name": "Συμπίεση τριχών"
+      },
+      "self_clean": {
+        "name": "Αυτοκαθαρισμός"
+      },
+      "deep_mop_washing": {
+        "name": "Βαθύ πλύσιμο πανιού"
+      },
+      "hot_washing": {
+        "name": "Πλύσιμο με ζεστό νερό"
+      },
+      "auto_drying": {
+        "name": "Αυτόματο στέγνωμα"
+      },
+      "silent_drying": {
+        "name": "Αθόρυβο στέγνωμα"
+      },
+      "uv_sterilization": {
+        "name": "Αποστείρωση UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Προσαρμοσμένος καθαρισμός"
+      },
+      "carpet_avoidance": {
+        "name": "Αποφυγή χαλιών"
+      },
+      "carpet_preferences": {
+        "name": "Προσαρμοσμένες προτιμήσεις"
+      },
+      "auto_change_mop": {
+        "name": "Αυτόματη αλλαγή πανιού"
+      },
+      "multi_floor_map": {
+        "name": "Χάρτης πολλαπλών ορόφων"
+      },
+      "intelligent_recognition": {
+        "name": "Έξυπνη αναγνώριση"
+      },
+      "map_saving": {
+        "name": "Αποθήκευση χάρτη"
+      },
+      "child_lock": {
+        "name": "Κλείδωμα για παιδιά"
+      },
+      "resume_cleaning": {
+        "name": "Συνέχιση καθαρισμού"
+      },
+      "obstacle_avoidance": {
+        "name": "Αποφυγή εμποδίων"
+      },
+      "carpet_boost": {
+        "name": "Ενίσχυση σε χαλιά"
+      },
+      "carpet_recognition": {
+        "name": "Αναγνώριση χαλιών"
+      },
+      "clean_carpets_first": {
+        "name": "Καθαρισμός χαλιών πρώτα"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Κλείσιμο καλύμματος κυλίνδρου στο χαλί"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Εντατικός καθαρισμός χαλιών"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Περιστροφή πλευρικής βούρτσας στο χαλί"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Ανύψωση πλαισίου στο χαλί"
+      },
+      "auto_mount_mop": {
+        "name": "Αυτόματη τοποθέτηση πανιού"
+      },
+      "mopping_with_detergent": {
+        "name": "Σφουγγάρισμα με απορρυπαντικό"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Πλύσιμο πανιού με απορρυπαντικό"
+      },
+      "auto_add_detergent": {
+        "name": "Αυτόματη προσθήκη απορρυπαντικού"
+      },
+      "smart_mop_washing": {
+        "name": "Έξυπνο πλύσιμο πανιού"
+      },
+      "wider_corner_coverage": {
+        "name": "Μεγαλύτερη κάλυψη γωνιών"
+      },
+      "pressurized_cleaning": {
+        "name": "Καθαρισμός υπό πίεση"
+      },
+      "gap_cleaning_extension": {
+        "name": "Επέκταση καθαρισμού κενών"
+      },
+      "mopping_under_furnitures": {
+        "name": "Σφουγγάρισμα κάτω από έπιπλα"
+      },
+      "floor_direction_cleaning": {
+        "name": "Καθαρισμός κατά τη φορά του δαπέδου"
+      },
+      "ring_light_always_on": {
+        "name": "Φωτεινός δακτύλιος πάντα αναμμένος"
+      },
+      "collision_avoidance": {
+        "name": "Αποφυγή σύγκρουσης"
+      },
+      "fill_light": {
+        "name": "Φως κάμερας"
+      },
+      "ai_obstacle_detection": {
+        "name": "Ανίχνευση εμποδίων AI"
+      },
+      "ai_pet_detection": {
+        "name": "Ανίχνευση κατοικίδιων"
+      },
+      "pet_focused_detection": {
+        "name": "Ανίχνευση εστιασμένη σε κατοικίδια"
+      },
+      "pet_focused_cleaning": {
+        "name": "Καθαρισμός εστιασμένος σε κατοικίδια"
+      },
+      "ai_obstacle_picture": {
+        "name": "Φωτογραφίες εμποδίων"
+      },
+      "obstacle_crossing": {
+        "name": "Συγχρονισμένη διέλευση εμποδίων"
+      },
+      "active_suspension_crossing": {
+        "name": "Διέλευση με ενεργή ανάρτηση"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Δυναμικός καθαρισμός εμποδίων"
+      },
+      "large_particles_boost": {
+        "name": "Ενίσχυση για μεγάλα σωματίδια"
+      },
+      "streaming_voice_prompt": {
+        "name": "Φωνητική ειδοποίηση ροής"
+      },
+      "voice_assistant": {
+        "name": "Φωνητικός βοηθός"
+      },
+      "off_peak_charging": {
+        "name": "Φόρτιση εκτός ωρών αιχμής"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Απενεργοποίηση συνέχισης καθαρισμού"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Απενεργοποίηση αυτόματου αδειάσματος"
+      },
+      "dnd_reduce_volume": {
+        "name": "Μείωση έντασης"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

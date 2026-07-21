@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "نام میانبر"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "تمیزکاری سفارشی"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "تمیزکاری عمیق"
+      },
+      "auto_dust_collecting": {
+        "name": "تخلیه خودکار زباله"
+      },
+      "hair_compression": {
+        "name": "فشرده‌سازی مو"
+      },
+      "self_clean": {
+        "name": "خودتمیزکاری"
+      },
+      "deep_mop_washing": {
+        "name": "شستشوی عمیق طی"
+      },
+      "hot_washing": {
+        "name": "شستشو با آب داغ"
+      },
+      "auto_drying": {
+        "name": "خشک کردن خودکار"
+      },
+      "silent_drying": {
+        "name": "خشک کردن بی‌صدا"
+      },
+      "uv_sterilization": {
+        "name": "استریلیزاسیون UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "تمیزکاری سفارشی"
+      },
+      "carpet_avoidance": {
+        "name": "اجتناب از فرش"
+      },
+      "carpet_preferences": {
+        "name": "تنظیمات سفارشی"
+      },
+      "auto_change_mop": {
+        "name": "تعویض خودکار طی"
+      },
+      "multi_floor_map": {
+        "name": "نقشه چند طبقه"
+      },
+      "intelligent_recognition": {
+        "name": "تشخیص هوشمند"
+      },
+      "map_saving": {
+        "name": "ذخیره نقشه"
+      },
+      "child_lock": {
+        "name": "قفل کودک"
+      },
+      "resume_cleaning": {
+        "name": "از سرگیری تمیزکاری"
+      },
+      "obstacle_avoidance": {
+        "name": "اجتناب از موانع"
+      },
+      "carpet_boost": {
+        "name": "افزایش مکش روی فرش"
+      },
+      "carpet_recognition": {
+        "name": "تشخیص فرش"
+      },
+      "clean_carpets_first": {
+        "name": "ابتدا تمیز کردن فرش‌ها"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "بستن درپوش غلتک روی فرش"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "تمیزکاری فشرده فرش"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "چرخش برس کناری روی فرش"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "بالا بردن شاسی روی فرش"
+      },
+      "auto_mount_mop": {
+        "name": "نصب خودکار طی"
+      },
+      "mopping_with_detergent": {
+        "name": "طی کشیدن با شوینده"
+      },
+      "mop_washing_with_detergent": {
+        "name": "شستشوی طی با شوینده"
+      },
+      "auto_add_detergent": {
+        "name": "افزودن خودکار شوینده"
+      },
+      "smart_mop_washing": {
+        "name": "شستشوی هوشمند طی"
+      },
+      "wider_corner_coverage": {
+        "name": "پوشش گسترده‌تر گوشه‌ها"
+      },
+      "pressurized_cleaning": {
+        "name": "تمیزکاری تحت فشار"
+      },
+      "gap_cleaning_extension": {
+        "name": "توسعه تمیزکاری شکاف‌ها"
+      },
+      "mopping_under_furnitures": {
+        "name": "طی کشیدن زیر مبلمان"
+      },
+      "floor_direction_cleaning": {
+        "name": "تمیزکاری هم‌جهت با کفپوش"
+      },
+      "ring_light_always_on": {
+        "name": "چراغ حلقه‌ای همیشه روشن"
+      },
+      "collision_avoidance": {
+        "name": "جلوگیری از برخورد"
+      },
+      "fill_light": {
+        "name": "نور دوربین"
+      },
+      "ai_obstacle_detection": {
+        "name": "تشخیص موانع با هوش مصنوعی"
+      },
+      "ai_pet_detection": {
+        "name": "تشخیص حیوان خانگی"
+      },
+      "pet_focused_detection": {
+        "name": "تشخیص متمرکز بر حیوان خانگی"
+      },
+      "pet_focused_cleaning": {
+        "name": "تمیزکاری متمرکز بر حیوان خانگی"
+      },
+      "ai_obstacle_picture": {
+        "name": "عکس موانع"
+      },
+      "obstacle_crossing": {
+        "name": "عبور همگام از موانع"
+      },
+      "active_suspension_crossing": {
+        "name": "عبور با تعلیق فعال"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "تمیزکاری موانع متحرک"
+      },
+      "large_particles_boost": {
+        "name": "مکش قوی برای ذرات درشت"
+      },
+      "streaming_voice_prompt": {
+        "name": "اعلان صوتی پیوسته"
+      },
+      "voice_assistant": {
+        "name": "دستیار صوتی"
+      },
+      "off_peak_charging": {
+        "name": "شارژ در ساعات غیر اوج مصرف"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "غیرفعال کردن ادامه تمیزکاری (در DnD)"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "غیرفعال کردن تخلیه خودکار (در DnD)"
+      },
+      "dnd_reduce_volume": {
+        "name": "کاهش صدا (در DnD)"
+      },
+      "dnd": {
+        "name": "عدم مزاحمت (DnD)"
+      }
     }
   },
   "entity_component": {

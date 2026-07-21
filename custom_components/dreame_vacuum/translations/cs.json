@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Název zkratky"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Upravené čištění"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Hloubkové čištění"
+      },
+      "auto_dust_collecting": {
+        "name": "Auto-vyprazdňování"
+      },
+      "hair_compression": {
+        "name": "Komprese vlasů"
+      },
+      "self_clean": {
+        "name": "Samočištění"
+      },
+      "deep_mop_washing": {
+        "name": "Hloubkové mytí mopu"
+      },
+      "hot_washing": {
+        "name": "Mytí horkou vodou"
+      },
+      "auto_drying": {
+        "name": "Auto-sušení"
+      },
+      "silent_drying": {
+        "name": "Tiché sušení"
+      },
+      "uv_sterilization": {
+        "name": "UV sterilizace"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Upravené čištění"
+      },
+      "carpet_avoidance": {
+        "name": "Vyhýbání se kobercům"
+      },
+      "carpet_preferences": {
+        "name": "Upravené preference"
+      },
+      "auto_change_mop": {
+        "name": "Automatická výměna mopu"
+      },
+      "multi_floor_map": {
+        "name": "Vícepodlažní mapa"
+      },
+      "intelligent_recognition": {
+        "name": "Inteligentní rozpoznávání"
+      },
+      "map_saving": {
+        "name": "Ukládání mapy"
+      },
+      "child_lock": {
+        "name": "Dětská pojistka"
+      },
+      "resume_cleaning": {
+        "name": "Pokračovat v čištění"
+      },
+      "obstacle_avoidance": {
+        "name": "Vyhýbání se překážkám"
+      },
+      "carpet_boost": {
+        "name": "Zvýšení výkonu na koberci"
+      },
+      "carpet_recognition": {
+        "name": "Rozpoznání koberce"
+      },
+      "clean_carpets_first": {
+        "name": "Nejdříve vyčistit koberce"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Zavřít kryt válce na koberci"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intenzivní čištění koberců"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Otáčení bočního kartáče na koberci"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Zvednout podvozek na koberci"
+      },
+      "auto_mount_mop": {
+        "name": "Automatické nasazení mopu"
+      },
+      "mopping_with_detergent": {
+        "name": "Mopování s detergentem"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mytí mopu s detergentem"
+      },
+      "auto_add_detergent": {
+        "name": "Automatické přidávání detergentu"
+      },
+      "smart_mop_washing": {
+        "name": "Chytré mytí mopu"
+      },
+      "wider_corner_coverage": {
+        "name": "Širší pokrytí rohů"
+      },
+      "pressurized_cleaning": {
+        "name": "Tlakové čištění"
+      },
+      "gap_cleaning_extension": {
+        "name": "Rozšíření čištění mezer"
+      },
+      "mopping_under_furnitures": {
+        "name": "Mopování pod nábytkem"
+      },
+      "floor_direction_cleaning": {
+        "name": "Čištění ve směru podlahy"
+      },
+      "ring_light_always_on": {
+        "name": "Prstenec světla vždy zapnutý"
+      },
+      "collision_avoidance": {
+        "name": "Prevence kolizí"
+      },
+      "fill_light": {
+        "name": "Světlo kamery"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI detekce překážek"
+      },
+      "ai_pet_detection": {
+        "name": "Detekce mazlíčků"
+      },
+      "pet_focused_detection": {
+        "name": "Detekce zaměřená na mazlíčky"
+      },
+      "pet_focused_cleaning": {
+        "name": "Čištění zaměřené na mazlíčky"
+      },
+      "ai_obstacle_picture": {
+        "name": "Obrázky překážek"
+      },
+      "obstacle_crossing": {
+        "name": "Synchronizované přejíždění překážek"
+      },
+      "active_suspension_crossing": {
+        "name": "Přejíždění s aktivním odpružením"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dynamické čištění překážek"
+      },
+      "large_particles_boost": {
+        "name": "Zvýšení výkonu na velké částice"
+      },
+      "streaming_voice_prompt": {
+        "name": "Streamování hlasové výzvy"
+      },
+      "voice_assistant": {
+        "name": "Hlasový asistent"
+      },
+      "off_peak_charging": {
+        "name": "Nabíjení mimo špičku"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Zakázat pokračování čištění"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Zakázat automatické vyprazdňování"
+      },
+      "dnd_reduce_volume": {
+        "name": "Snížit hlasitost"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

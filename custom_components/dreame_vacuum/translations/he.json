@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "שם קיצור דרך"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "ניקוי מותאם אישית"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "ניקוי עמוק"
+      },
+      "auto_dust_collecting": {
+        "name": "ריקון אוטומטי"
+      },
+      "hair_compression": {
+        "name": "דחיסת שיער"
+      },
+      "self_clean": {
+        "name": "ניקוי עצמי"
+      },
+      "deep_mop_washing": {
+        "name": "שטיפת מגב עמוקה"
+      },
+      "hot_washing": {
+        "name": "שטיפה חמה"
+      },
+      "auto_drying": {
+        "name": "ייבוש אוטומטי"
+      },
+      "silent_drying": {
+        "name": "ייבוש שקט"
+      },
+      "uv_sterilization": {
+        "name": "עיקור UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "ניקוי מותאם אישית"
+      },
+      "carpet_avoidance": {
+        "name": "הימנעות משטיח"
+      },
+      "carpet_preferences": {
+        "name": "העדפות מותאמות אישית"
+      },
+      "auto_change_mop": {
+        "name": "החלפת מגב אוטומטית"
+      },
+      "multi_floor_map": {
+        "name": "מפה מרובת קומות"
+      },
+      "intelligent_recognition": {
+        "name": "זיהוי חכם"
+      },
+      "map_saving": {
+        "name": "שמירת מפה"
+      },
+      "child_lock": {
+        "name": "נעילת ילדים"
+      },
+      "resume_cleaning": {
+        "name": "חידוש ניקוי"
+      },
+      "obstacle_avoidance": {
+        "name": "הימנעות ממכשולים"
+      },
+      "carpet_boost": {
+        "name": "הגברת שאיבה על שטיח"
+      },
+      "carpet_recognition": {
+        "name": "זיהוי שטיח"
+      },
+      "clean_carpets_first": {
+        "name": "ניקוי שטיחים תחילה"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "סגירת מכסה גליל על שטיח"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "ניקוי שטיח אינטנסיבי"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "סיבוב מברשת צד על שטיח"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "הרמת שלדה על שטיח"
+      },
+      "auto_mount_mop": {
+        "name": "הרכבת מגב אוטומטית"
+      },
+      "mopping_with_detergent": {
+        "name": "ניגוב עם נוזל ניקוי"
+      },
+      "mop_washing_with_detergent": {
+        "name": "שטיפת מגב עם נוזל ניקוי"
+      },
+      "auto_add_detergent": {
+        "name": "הוספת נוזל ניקוי אוטומטית"
+      },
+      "smart_mop_washing": {
+        "name": "שטיפת מגב חכמה"
+      },
+      "wider_corner_coverage": {
+        "name": "כיסוי פינות רחב יותר"
+      },
+      "pressurized_cleaning": {
+        "name": "ניקוי בלחץ"
+      },
+      "gap_cleaning_extension": {
+        "name": "הרחבת ניקוי חריצים"
+      },
+      "mopping_under_furnitures": {
+        "name": "ניגוב מתחת לרהיטים"
+      },
+      "floor_direction_cleaning": {
+        "name": "ניקוי בכיוון הרצפה"
+      },
+      "ring_light_always_on": {
+        "name": "תאורת טבעת דולקת תמיד"
+      },
+      "collision_avoidance": {
+        "name": "מניעת התנגשויות"
+      },
+      "fill_light": {
+        "name": "תאורת מצלמה"
+      },
+      "ai_obstacle_detection": {
+        "name": "זיהוי מכשולים AI"
+      },
+      "ai_pet_detection": {
+        "name": "זיהוי חיות מחמד"
+      },
+      "pet_focused_detection": {
+        "name": "זיהוי ממוקד חיות מחמד"
+      },
+      "pet_focused_cleaning": {
+        "name": "ניקוי ממוקד חיות מחמד"
+      },
+      "ai_obstacle_picture": {
+        "name": "תמונות מכשולים"
+      },
+      "obstacle_crossing": {
+        "name": "חציית מכשולים מסונכרנת"
+      },
+      "active_suspension_crossing": {
+        "name": "חציית מכשולים בעזרת מתלים אקטיביים"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "ניקוי מכשולים דינמי"
+      },
+      "large_particles_boost": {
+        "name": "הגברת שאיבה לחלקיקים גדולים"
+      },
+      "streaming_voice_prompt": {
+        "name": "הנחיות קוליות מוזרמות"
+      },
+      "voice_assistant": {
+        "name": "עוזרת קולית"
+      },
+      "off_peak_charging": {
+        "name": "טעינה בשעות שפל"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "השבתת חידוש ניקוי (DnD)"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "השבתת ריקון אוטומטי (DnD)"
+      },
+      "dnd_reduce_volume": {
+        "name": "הפחתת עוצמת קול (DnD)"
+      },
+      "dnd": {
+        "name": "נא לא להפריע (DnD)"
+      }
     }
   },
   "entity_component": {

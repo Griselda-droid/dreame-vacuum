@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Nazwa skrótu"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Sprzątanie niestandardowe"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Głębokie czyszczenie"
+      },
+      "auto_dust_collecting": {
+        "name": "Automatyczne opróżnianie"
+      },
+      "hair_compression": {
+        "name": "Kompresja włosów"
+      },
+      "self_clean": {
+        "name": "Autoczyszczenie"
+      },
+      "deep_mop_washing": {
+        "name": "Głębokie mycie mopa"
+      },
+      "hot_washing": {
+        "name": "Mycie gorącą wodą"
+      },
+      "auto_drying": {
+        "name": "Automatyczne suszenie"
+      },
+      "silent_drying": {
+        "name": "Ciche suszenie"
+      },
+      "uv_sterilization": {
+        "name": "Sterylizacja UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Sprzątanie niestandardowe"
+      },
+      "carpet_avoidance": {
+        "name": "Omijanie dywanów"
+      },
+      "carpet_preferences": {
+        "name": "Niestandardowe preferencje"
+      },
+      "auto_change_mop": {
+        "name": "Automatyczna zmiana mopa"
+      },
+      "multi_floor_map": {
+        "name": "Mapa wielopiętrowa"
+      },
+      "intelligent_recognition": {
+        "name": "Inteligentne rozpoznawanie"
+      },
+      "map_saving": {
+        "name": "Zapisywanie mapy"
+      },
+      "child_lock": {
+        "name": "Blokada dziecięca"
+      },
+      "resume_cleaning": {
+        "name": "Wznów sprzątanie"
+      },
+      "obstacle_avoidance": {
+        "name": "Omijanie przeszkód"
+      },
+      "carpet_boost": {
+        "name": "Zwiększenie mocy na dywanie"
+      },
+      "carpet_recognition": {
+        "name": "Rozpoznawanie dywanów"
+      },
+      "clean_carpets_first": {
+        "name": "Najpierw sprzątaj dywany"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Zamknij osłonę wałka na dywanie"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensywne czyszczenie dywanów"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Obrót szczotki bocznej na dywanie"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Podnieś podwozie na dywanie"
+      },
+      "auto_mount_mop": {
+        "name": "Automatyczny montaż mopa"
+      },
+      "mopping_with_detergent": {
+        "name": "Mopowanie z detergentem"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Mycie mopa z detergentem"
+      },
+      "auto_add_detergent": {
+        "name": "Automatyczne dodawanie detergentu"
+      },
+      "smart_mop_washing": {
+        "name": "Inteligentne mycie mopa"
+      },
+      "wider_corner_coverage": {
+        "name": "Szybsze pokrycie narożników"
+      },
+      "pressurized_cleaning": {
+        "name": "Czyszczenie pod ciśnieniem"
+      },
+      "gap_cleaning_extension": {
+        "name": "Rozszerzone czyszczenie szczelin"
+      },
+      "mopping_under_furnitures": {
+        "name": "Mopowanie pod meblami"
+      },
+      "floor_direction_cleaning": {
+        "name": "Sprzątanie zgodnie z kierunkiem podłogi"
+      },
+      "ring_light_always_on": {
+        "name": "Pierścień świetlny zawsze włączony"
+      },
+      "collision_avoidance": {
+        "name": "Unikanie kolizji"
+      },
+      "fill_light": {
+        "name": "Światło kamery"
+      },
+      "ai_obstacle_detection": {
+        "name": "Detekcja przeszkód AI"
+      },
+      "ai_pet_detection": {
+        "name": "Wykrywanie zwierząt"
+      },
+      "pet_focused_detection": {
+        "name": "Wykrywanie skoncentrowane na zwierzętach"
+      },
+      "pet_focused_cleaning": {
+        "name": "Sprzątanie skoncentrowane na zwierzętach"
+      },
+      "ai_obstacle_picture": {
+        "name": "Zdjęcia przeszkód"
+      },
+      "obstacle_crossing": {
+        "name": "Zsynchronizowane pokonywanie przeszkód"
+      },
+      "active_suspension_crossing": {
+        "name": "Pokonywanie z aktywnym zawieszeniem"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dynamiczne sprzątanie przeszkód"
+      },
+      "large_particles_boost": {
+        "name": "Moc na duże cząstki"
+      },
+      "streaming_voice_prompt": {
+        "name": "Strumieniowy komunikat głosowy"
+      },
+      "voice_assistant": {
+        "name": "Asystent głosowy"
+      },
+      "off_peak_charging": {
+        "name": "Ładowanie poza szczytem"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Wyłącz wznawianie sprzątania"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Wyłącz automatyczne opróżnianie"
+      },
+      "dnd_reduce_volume": {
+        "name": "Zmniejsz głośność"
+      },
+      "dnd": {
+        "name": "Tryb Nie przeszkadzać"
+      }
     }
   },
   "entity_component": {

@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "바로가기 이름"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "맞춤 청소"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "정밀 청소"
+      },
+      "auto_dust_collecting": {
+        "name": "자동 먼지 비움"
+      },
+      "hair_compression": {
+        "name": "머리카락 압축"
+      },
+      "self_clean": {
+        "name": "자가 청소"
+      },
+      "deep_mop_washing": {
+        "name": "정밀 걸레 세척"
+      },
+      "hot_washing": {
+        "name": "온수 세척"
+      },
+      "auto_drying": {
+        "name": "자동 건조"
+      },
+      "silent_drying": {
+        "name": "저소음 건조"
+      },
+      "uv_sterilization": {
+        "name": "UV 살균"
+      },
+      "customized_carpet_cleaning": {
+        "name": "맞춤 청소"
+      },
+      "carpet_avoidance": {
+        "name": "카펫 회피"
+      },
+      "carpet_preferences": {
+        "name": "카펫 맞춤 설정"
+      },
+      "auto_change_mop": {
+        "name": "자동 걸레 교체"
+      },
+      "multi_floor_map": {
+        "name": "복층 지도"
+      },
+      "intelligent_recognition": {
+        "name": "지능형 인식"
+      },
+      "map_saving": {
+        "name": "지도 저장"
+      },
+      "child_lock": {
+        "name": "차일드 락"
+      },
+      "resume_cleaning": {
+        "name": "청소 재개"
+      },
+      "obstacle_avoidance": {
+        "name": "장애물 회피"
+      },
+      "carpet_boost": {
+        "name": "카펫 가속"
+      },
+      "carpet_recognition": {
+        "name": "카펫 인식"
+      },
+      "clean_carpets_first": {
+        "name": "카펫 우선 청소"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "카펫 위에서 롤러 커버 닫기"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "카펫 집중 청소"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "카펫 위 사이드 브러시 회전"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "카펫 위 섀시 들어올리기"
+      },
+      "auto_mount_mop": {
+        "name": "자동 걸레 장착"
+      },
+      "mopping_with_detergent": {
+        "name": "세제 걸레질"
+      },
+      "mop_washing_with_detergent": {
+        "name": "세제 걸레 세척"
+      },
+      "auto_add_detergent": {
+        "name": "세제 자동 추가"
+      },
+      "smart_mop_washing": {
+        "name": "스마트 걸레 세척"
+      },
+      "wider_corner_coverage": {
+        "name": "코너 청소 범위 확대"
+      },
+      "pressurized_cleaning": {
+        "name": "가압 청소"
+      },
+      "gap_cleaning_extension": {
+        "name": "틈새 청소 연장"
+      },
+      "mopping_under_furnitures": {
+        "name": "가구 아래 걸레질"
+      },
+      "floor_direction_cleaning": {
+        "name": "바닥 방향 청소"
+      },
+      "ring_light_always_on": {
+        "name": "링 라이트 항상 켜기"
+      },
+      "collision_avoidance": {
+        "name": "충돌 회피"
+      },
+      "fill_light": {
+        "name": "카메라 조명"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI 장애물 감지"
+      },
+      "ai_pet_detection": {
+        "name": "반려동물 감지"
+      },
+      "pet_focused_detection": {
+        "name": "반려동물 집중 감지"
+      },
+      "pet_focused_cleaning": {
+        "name": "반려동물 집중 청소"
+      },
+      "ai_obstacle_picture": {
+        "name": "장애물 사진"
+      },
+      "obstacle_crossing": {
+        "name": "장애물 넘기 동기화"
+      },
+      "active_suspension_crossing": {
+        "name": "액티브 서스펜션 장애물 넘기"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "동적 장애물 청소"
+      },
+      "large_particles_boost": {
+        "name": "큰 입자 가속"
+      },
+      "streaming_voice_prompt": {
+        "name": "스트리밍 음성 안내"
+      },
+      "voice_assistant": {
+        "name": "음성 비서"
+      },
+      "off_peak_charging": {
+        "name": "심야 충전"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "청소 재개 비활성화"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "자동 비움 비활성화"
+      },
+      "dnd_reduce_volume": {
+        "name": "볼륨 조절"
+      },
+      "dnd": {
+        "name": "방해 금지 모드"
+      }
     }
   },
   "entity_component": {

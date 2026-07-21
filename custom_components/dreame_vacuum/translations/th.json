@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "ชื่อทางลัด"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "ทำความสะอาดที่กำหนดเอง"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "ทำความสะอาดล้ำลึก"
+      },
+      "auto_dust_collecting": {
+        "name": "ทิ้งฝุ่นอัตโนมัติ"
+      },
+      "hair_compression": {
+        "name": "การบีบอัดเส้นผม"
+      },
+      "self_clean": {
+        "name": "ทำความสะอาดตัวเอง"
+      },
+      "deep_mop_washing": {
+        "name": "ซักแผ่นถูล้ำลึก"
+      },
+      "hot_washing": {
+        "name": "ซักด้วยน้ำร้อน"
+      },
+      "auto_drying": {
+        "name": "เป่าแห้งอัตโนมัติ"
+      },
+      "silent_drying": {
+        "name": "เป่าแห้งโหมดเงียบ"
+      },
+      "uv_sterilization": {
+        "name": "การฆ่าเชื้อด้วย UV"
+      },
+      "customized_carpet_cleaning": {
+        "name": "ทำความสะอาดที่กำหนดเอง"
+      },
+      "carpet_avoidance": {
+        "name": "หลีกเลี่ยงพรม"
+      },
+      "carpet_preferences": {
+        "name": "การตั้งค่าที่กำหนดเอง"
+      },
+      "auto_change_mop": {
+        "name": "เปลี่ยนแผ่นถูอัตโนมัติ"
+      },
+      "multi_floor_map": {
+        "name": "แผนที่หลายชั้น"
+      },
+      "intelligent_recognition": {
+        "name": "การตรวจจับอัจฉริยะ"
+      },
+      "map_saving": {
+        "name": "การบันทึกแผนที่"
+      },
+      "child_lock": {
+        "name": "ล็อกป้องกันเด็ก"
+      },
+      "resume_cleaning": {
+        "name": "ทำความสะอาดต่อ"
+      },
+      "obstacle_avoidance": {
+        "name": "หลบหลีกสิ่งกีดขวาง"
+      },
+      "carpet_boost": {
+        "name": "เพิ่มพลังดูดบนพรม"
+      },
+      "carpet_recognition": {
+        "name": "ตรวจจับพรม"
+      },
+      "clean_carpets_first": {
+        "name": "ทำความสะอาดพรมก่อน"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "ปิดฝาครอบลูกกลิ้งบนพรม"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "ทำความสะอาดพรมเข้มข้น"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "หมุนแปรงปัดข้างบนพรม"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "ยกแชสซีเมื่ออยู่บนพรม"
+      },
+      "auto_mount_mop": {
+        "name": "ติดตั้งแผ่นถูอัตโนมัติ"
+      },
+      "mopping_with_detergent": {
+        "name": "ถูพื้นด้วยน้ำยา"
+      },
+      "mop_washing_with_detergent": {
+        "name": "ซักแผ่นถูด้วยน้ำยา"
+      },
+      "auto_add_detergent": {
+        "name": "เพิ่มน้ำยาอัตโนมัติ"
+      },
+      "smart_mop_washing": {
+        "name": "ซักแผ่นถูสมาร์ท"
+      },
+      "wider_corner_coverage": {
+        "name": "ครอบคลุมมุมกว้างขึ้น"
+      },
+      "pressurized_cleaning": {
+        "name": "ทำความสะอาดแบบเพิ่มแรงดัน"
+      },
+      "gap_cleaning_extension": {
+        "name": "ส่วนขยายทำความสะอาดช่องว่าง"
+      },
+      "mopping_under_furnitures": {
+        "name": "ถูพื้นใต้เฟอร์นิเจอร์"
+      },
+      "floor_direction_cleaning": {
+        "name": "ทำความสะอาดตามทิศทางพื้น"
+      },
+      "ring_light_always_on": {
+        "name": "ไฟวงแหวนติดตลอดเวลา"
+      },
+      "collision_avoidance": {
+        "name": "หลบหลีกการชน"
+      },
+      "fill_light": {
+        "name": "ไฟกล้อง"
+      },
+      "ai_obstacle_detection": {
+        "name": "ตรวจจับสิ่งกีดขวาง AI"
+      },
+      "ai_pet_detection": {
+        "name": "ตรวจจับสัตว์เลี้ยง"
+      },
+      "pet_focused_detection": {
+        "name": "การตรวจจับเน้นสัตว์เลี้ยง"
+      },
+      "pet_focused_cleaning": {
+        "name": "การทำความสะอาดเน้นสัตว์เลี้ยง"
+      },
+      "ai_obstacle_picture": {
+        "name": "ภาพสิ่งกีดขวาง"
+      },
+      "obstacle_crossing": {
+        "name": "ข้ามสิ่งกีดขวางแบบซิงโครไนซ์"
+      },
+      "active_suspension_crossing": {
+        "name": "ข้ามแบบช่วงล่างแอคทีฟ"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "ทำความสะอาดสิ่งกีดขวางเคลื่อนที่"
+      },
+      "large_particles_boost": {
+        "name": "เพิ่มพลังสำหรับอนุภาคขนาดใหญ่"
+      },
+      "streaming_voice_prompt": {
+        "name": "เสียงเตือนแบบสตรีม"
+      },
+      "voice_assistant": {
+        "name": "ผู้ช่วยเสียง"
+      },
+      "off_peak_charging": {
+        "name": "การชาร์จนอกช่วงเวลาเร่งด่วน"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "ปิดใช้งานการทำความสะอาดต่อ (Resume)"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "ปิดใช้งานทิ้งฝุ่นอัตโนมัติ"
+      },
+      "dnd_reduce_volume": {
+        "name": "ลดระดับเสียง"
+      },
+      "dnd": {
+        "name": "ห้ามรบกวน (DnD)"
+      }
     }
   },
   "entity_component": {

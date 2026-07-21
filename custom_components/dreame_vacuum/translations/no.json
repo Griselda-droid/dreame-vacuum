@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Snarveinavn"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Tilpasset rengjøring"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Dyprengjøring"
+      },
+      "auto_dust_collecting": {
+        "name": "Auto-tømming"
+      },
+      "hair_compression": {
+        "name": "Hår-komprimering"
+      },
+      "self_clean": {
+        "name": "Selvrens"
+      },
+      "deep_mop_washing": {
+        "name": "Dypmoppvask"
+      },
+      "hot_washing": {
+        "name": "Varmvask"
+      },
+      "auto_drying": {
+        "name": "Auto-tørking"
+      },
+      "silent_drying": {
+        "name": "Stille tørking"
+      },
+      "uv_sterilization": {
+        "name": "UV-sterilisering"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Tilpasset tepperengjøring"
+      },
+      "carpet_avoidance": {
+        "name": "Teppeunngåelse"
+      },
+      "carpet_preferences": {
+        "name": "Tilpassede preferanser"
+      },
+      "auto_change_mop": {
+        "name": "Auto-moppeskift"
+      },
+      "multi_floor_map": {
+        "name": "Fleretasjeskart"
+      },
+      "intelligent_recognition": {
+        "name": "Intelligent gjenkjenning"
+      },
+      "map_saving": {
+        "name": "Kartlagring"
+      },
+      "child_lock": {
+        "name": "Barnesikring"
+      },
+      "resume_cleaning": {
+        "name": "Gjenoppta rengjøring"
+      },
+      "obstacle_avoidance": {
+        "name": "Hindringsunngåelse"
+      },
+      "carpet_boost": {
+        "name": "Teppeforsterkning"
+      },
+      "carpet_recognition": {
+        "name": "Teppegjenkjenning"
+      },
+      "clean_carpets_first": {
+        "name": "Rengjør tepper først"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Lukk rulledeksel på teppe"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Intensiv tepperengjøring"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Sidebørste roterer på teppe"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Løft sasis på teppe"
+      },
+      "auto_mount_mop": {
+        "name": "Auto-montering av mopp"
+      },
+      "mopping_with_detergent": {
+        "name": "Mopping med vaskemiddel"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Moppevask med vaskemiddel"
+      },
+      "auto_add_detergent": {
+        "name": "Legg til vaskemiddel automatisk"
+      },
+      "smart_mop_washing": {
+        "name": "Smart moppevask"
+      },
+      "wider_corner_coverage": {
+        "name": "Bredere hjørnedekning"
+      },
+      "pressurized_cleaning": {
+        "name": "Trykkrengjøring"
+      },
+      "gap_cleaning_extension": {
+        "name": "Mellomrom-rengjøring"
+      },
+      "mopping_under_furnitures": {
+        "name": "Moppe under møbler"
+      },
+      "floor_direction_cleaning": {
+        "name": "Rengjøring i gulvretning"
+      },
+      "ring_light_always_on": {
+        "name": "Ringlys alltid på"
+      },
+      "collision_avoidance": {
+        "name": "Kollisjonsunngåelse"
+      },
+      "fill_light": {
+        "name": "Kameralys"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI-hindringsdeteksjon"
+      },
+      "ai_pet_detection": {
+        "name": "Kjæledyrdeteksjon"
+      },
+      "pet_focused_detection": {
+        "name": "Kjæledyrfokusert deteksjon"
+      },
+      "pet_focused_cleaning": {
+        "name": "Kjæledyrfokusert rengjøring"
+      },
+      "ai_obstacle_picture": {
+        "name": "Hindringsbilde"
+      },
+      "obstacle_crossing": {
+        "name": "Forsere hindringer"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktiv fjæringskryssing"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Rengjøring av dynamiske hindringer"
+      },
+      "large_particles_boost": {
+        "name": "Forsterkning for store partikler"
+      },
+      "streaming_voice_prompt": {
+        "name": "Talemelding ved strømming"
+      },
+      "voice_assistant": {
+        "name": "Taleassistent"
+      },
+      "off_peak_charging": {
+        "name": "Lading utenom rushtid"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Deaktiver gjenopptak av rengjøring"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Deaktiver auto-tømming"
+      },
+      "dnd_reduce_volume": {
+        "name": "Reduser volum"
+      },
+      "dnd": {
+        "name": "DnD"
+      }
     }
   },
   "entity_component": {

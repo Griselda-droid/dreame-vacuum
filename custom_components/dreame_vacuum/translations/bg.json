@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Име на прекия път"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Персонализирано почистване"
+      },
+      "cleangenius_cleaning": {
+        "name": "Cleangenius"
+      },
+      "deep_cleaning": {
+        "name": "Дълбоко почистване"
+      },
+      "auto_dust_collecting": {
+        "name": "Автоматично изпразване"
+      },
+      "hair_compression": {
+        "name": "Компресиране на косми"
+      },
+      "self_clean": {
+        "name": "Самопочистване"
+      },
+      "deep_mop_washing": {
+        "name": "Дълбоко изпиране на мопа"
+      },
+      "hot_washing": {
+        "name": "Измиване с гореща вода"
+      },
+      "auto_drying": {
+        "name": "Автоматично сушене"
+      },
+      "silent_drying": {
+        "name": "Безшумно сушене"
+      },
+      "uv_sterilization": {
+        "name": "UV стерилизация"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Персонализирано почистване на килими"
+      },
+      "carpet_avoidance": {
+        "name": "Избягване на килими"
+      },
+      "carpet_preferences": {
+        "name": "Персонализирани предпочитания"
+      },
+      "auto_change_mop": {
+        "name": "Автоматична смяна на мопа"
+      },
+      "multi_floor_map": {
+        "name": "Многоетажна карта"
+      },
+      "intelligent_recognition": {
+        "name": "Интелигентно разпознаване"
+      },
+      "map_saving": {
+        "name": "Запазване на картата"
+      },
+      "child_lock": {
+        "name": "Детска защита"
+      },
+      "resume_cleaning": {
+        "name": "Възобновяване на почистването"
+      },
+      "obstacle_avoidance": {
+        "name": "Избягване на препятствия"
+      },
+      "carpet_boost": {
+        "name": "Усилване върху килим"
+      },
+      "carpet_recognition": {
+        "name": "Разпознаване на килим"
+      },
+      "clean_carpets_first": {
+        "name": "Първо почистване на килимите"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Затваряне на капака на ролката върху килим"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Интензивно почистване на килими"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Въртене на страничната четка върху килим"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Повдигане на шасито върху килим"
+      },
+      "auto_mount_mop": {
+        "name": "Автоматично монтиране на мопа"
+      },
+      "mopping_with_detergent": {
+        "name": "Миене с препарат"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Измиване на мопа с препарат"
+      },
+      "auto_add_detergent": {
+        "name": "Автоматично добавяне на препарат"
+      },
+      "smart_mop_washing": {
+        "name": "Умно измиване на мопа"
+      },
+      "wider_corner_coverage": {
+        "name": "По-широко покритие на ъглите"
+      },
+      "pressurized_cleaning": {
+        "name": "Почистване под налягане"
+      },
+      "gap_cleaning_extension": {
+        "name": "Удължение за почистване на тесни пространства"
+      },
+      "mopping_under_furnitures": {
+        "name": "Миене под мебели"
+      },
+      "floor_direction_cleaning": {
+        "name": "Почистване по посока на пода"
+      },
+      "ring_light_always_on": {
+        "name": "Пръстеновидната светлина винаги е включена"
+      },
+      "collision_avoidance": {
+        "name": "Избягване на сблъсъци"
+      },
+      "fill_light": {
+        "name": "Светлина на камерата"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI засичане на препятствия"
+      },
+      "ai_pet_detection": {
+        "name": "Засичане на домашни любимци"
+      },
+      "pet_focused_detection": {
+        "name": "Фокусирано засичане на домашни любимци"
+      },
+      "pet_focused_cleaning": {
+        "name": "Фокусирано почистване на домашни любимци"
+      },
+      "ai_obstacle_picture": {
+        "name": "Снимки на препятствия"
+      },
+      "obstacle_crossing": {
+        "name": "Синхронизирано преминаване на препятствия"
+      },
+      "active_suspension_crossing": {
+        "name": "Активно преминаване на окачването"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Почистване на динамични препятствия"
+      },
+      "large_particles_boost": {
+        "name": "Усилване при големи частици"
+      },
+      "streaming_voice_prompt": {
+        "name": "Гласова подкана при стрийминг"
+      },
+      "voice_assistant": {
+        "name": "Гласов асистент"
+      },
+      "off_peak_charging": {
+        "name": "Зареждане в извънпикови часове"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Деактивиране на възобновяването на почистването"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Деактивиране на автоматичното изпразване"
+      },
+      "dnd_reduce_volume": {
+        "name": "Намаляване на силата на звука"
+      },
+      "dnd": {
+        "name": "Не ме безпокойте"
+      }
     }
   },
   "entity_component": {

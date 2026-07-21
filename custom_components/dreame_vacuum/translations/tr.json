@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "Kısayol Adı"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "Özelleştirilmiş Temizlik"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "Derin Temizlik"
+      },
+      "auto_dust_collecting": {
+        "name": "Otomatik Boşaltma"
+      },
+      "hair_compression": {
+        "name": "Saç Sıkıştırma"
+      },
+      "self_clean": {
+        "name": "Kendi Kendine Temizlik"
+      },
+      "deep_mop_washing": {
+        "name": "Derin Mop Yıkama"
+      },
+      "hot_washing": {
+        "name": "Sıcak Yıkama"
+      },
+      "auto_drying": {
+        "name": "Otomatik Kurutma"
+      },
+      "silent_drying": {
+        "name": "Sessiz Kurutma"
+      },
+      "uv_sterilization": {
+        "name": "UV Sterilizasyon"
+      },
+      "customized_carpet_cleaning": {
+        "name": "Özelleştirilmiş Temizlik"
+      },
+      "carpet_avoidance": {
+        "name": "Halıdan Kaçınma"
+      },
+      "carpet_preferences": {
+        "name": "Özelleştirilmiş Tercihler"
+      },
+      "auto_change_mop": {
+        "name": "Otomatik Mop Değişimi"
+      },
+      "multi_floor_map": {
+        "name": "Çok Katlı Harita"
+      },
+      "intelligent_recognition": {
+        "name": "Akıllı Tanıma"
+      },
+      "map_saving": {
+        "name": "Harita Kaydetme"
+      },
+      "child_lock": {
+        "name": "Çocuk Kilidi"
+      },
+      "resume_cleaning": {
+        "name": "Temizliğe Devam Et"
+      },
+      "obstacle_avoidance": {
+        "name": "Engelden Kaçınma"
+      },
+      "carpet_boost": {
+        "name": "Halı Güçlendirme"
+      },
+      "carpet_recognition": {
+        "name": "Halı Tanıma"
+      },
+      "clean_carpets_first": {
+        "name": "Önce Halıları Temizle"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "Halıda Rulo Kapağını Kapat"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "Yoğun Halı Temizliği"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "Halıda Yan Fırça Dönüşü"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "Halıda Şasiyi Kaldır"
+      },
+      "auto_mount_mop": {
+        "name": "Otomatik Mop Montajı"
+      },
+      "mopping_with_detergent": {
+        "name": "Deterjanla Paspaslama"
+      },
+      "mop_washing_with_detergent": {
+        "name": "Deterjanla Mop Yıkama"
+      },
+      "auto_add_detergent": {
+        "name": "Otomatik Deterjan Ekleme"
+      },
+      "smart_mop_washing": {
+        "name": "Akıllı Mop Yıkama"
+      },
+      "wider_corner_coverage": {
+        "name": "Geniş Köşe Kapsamı"
+      },
+      "pressurized_cleaning": {
+        "name": "Basınçlı Temizlik"
+      },
+      "gap_cleaning_extension": {
+        "name": "Boşluk Temizleme Uzantısı"
+      },
+      "mopping_under_furnitures": {
+        "name": "Mobilya Altlarını Paspasla"
+      },
+      "floor_direction_cleaning": {
+        "name": "Zemin Yönünde Temizlik"
+      },
+      "ring_light_always_on": {
+        "name": "Halka Işık Her Zaman Açık"
+      },
+      "collision_avoidance": {
+        "name": "Çarpışma Önleme"
+      },
+      "fill_light": {
+        "name": "Kamera Işığı"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI Engel Algılama"
+      },
+      "ai_pet_detection": {
+        "name": "Evcil Hayvan Algılama"
+      },
+      "pet_focused_detection": {
+        "name": "Evcil Hayvan Odaklı Algılama"
+      },
+      "pet_focused_cleaning": {
+        "name": "Evcil Hayvan Odaklı Temizlik"
+      },
+      "ai_obstacle_picture": {
+        "name": "Engel Resimleri"
+      },
+      "obstacle_crossing": {
+        "name": "Senkronize Engel Geçişi"
+      },
+      "active_suspension_crossing": {
+        "name": "Aktif Süspansiyon Geçişi"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "Dinamik Engel Temizliği"
+      },
+      "large_particles_boost": {
+        "name": "Büyük Parçacık Güçlendirme"
+      },
+      "streaming_voice_prompt": {
+        "name": "Yayın Sesli Komutu"
+      },
+      "voice_assistant": {
+        "name": "Sesli Asistan"
+      },
+      "off_peak_charging": {
+        "name": "Yoğun Olmayan Saatlerde Şarj"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "Temizliğe Devamı Devre Dışı Bırak"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "Otomatik Boşaltmayı Devre Dışı Bırak"
+      },
+      "dnd_reduce_volume": {
+        "name": "Sesi Azalt"
+      },
+      "dnd": {
+        "name": "Rahatsız Etme (DnD)"
+      }
     }
   },
   "entity_component": {

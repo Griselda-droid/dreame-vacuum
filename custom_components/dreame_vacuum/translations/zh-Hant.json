@@ -1529,6 +1529,179 @@
       "shortcut_name": {
         "name": "快捷指令名稱"
       }
+    },
+    "switch": {
+      "customized_cleaning": {
+        "name": "定制清潔"
+      },
+      "cleangenius_cleaning": {
+        "name": "CleanGenius"
+      },
+      "deep_cleaning": {
+        "name": "精細清潔"
+      },
+      "auto_dust_collecting": {
+        "name": "自動集塵"
+      },
+      "hair_compression": {
+        "name": "頭髮壓縮"
+      },
+      "self_clean": {
+        "name": "自清潔"
+      },
+      "deep_mop_washing": {
+        "name": "精細洗抹布"
+      },
+      "hot_washing": {
+        "name": "熱水洗"
+      },
+      "auto_drying": {
+        "name": "自動烘乾"
+      },
+      "silent_drying": {
+        "name": "靜音烘乾"
+      },
+      "uv_sterilization": {
+        "name": "UV 殺菌"
+      },
+      "customized_carpet_cleaning": {
+        "name": "定制清潔"
+      },
+      "carpet_avoidance": {
+        "name": "規避地毯"
+      },
+      "carpet_preferences": {
+        "name": "個性化偏好"
+      },
+      "auto_change_mop": {
+        "name": "自動換抹布"
+      },
+      "multi_floor_map": {
+        "name": "多層地圖"
+      },
+      "intelligent_recognition": {
+        "name": "智能識別"
+      },
+      "map_saving": {
+        "name": "地圖保存"
+      },
+      "child_lock": {
+        "name": "童鎖"
+      },
+      "resume_cleaning": {
+        "name": "斷點續掃"
+      },
+      "obstacle_avoidance": {
+        "name": "避障"
+      },
+      "carpet_boost": {
+        "name": "地毯增壓"
+      },
+      "carpet_recognition": {
+        "name": "地毯識別"
+      },
+      "clean_carpets_first": {
+        "name": "先清掃地毯"
+      },
+      "close_roller_cover_on_carpet": {
+        "name": "地毯上關閉滾刷蓋"
+      },
+      "intensive_carpet_cleaning": {
+        "name": "地毯深度清潔"
+      },
+      "side_brush_carpet_rotate": {
+        "name": "地毯邊刷轉動"
+      },
+      "lift_chassis_on_carpet": {
+        "name": "地毯抬升底盤"
+      },
+      "auto_mount_mop": {
+        "name": "自動安裝抹布"
+      },
+      "mopping_with_detergent": {
+        "name": "清潔劑掃拖"
+      },
+      "mop_washing_with_detergent": {
+        "name": "清潔劑洗抹布"
+      },
+      "auto_add_detergent": {
+        "name": "自動添加清潔劑"
+      },
+      "smart_mop_washing": {
+        "name": "智能洗抹布"
+      },
+      "wider_corner_coverage": {
+        "name": "邊角覆蓋增強"
+      },
+      "pressurized_cleaning": {
+        "name": "加壓清潔"
+      },
+      "gap_cleaning_extension": {
+        "name": "縫隙清潔伸出"
+      },
+      "mopping_under_furnitures": {
+        "name": "家具底掃拖"
+      },
+      "floor_direction_cleaning": {
+        "name": "順地板方向清潔"
+      },
+      "ring_light_always_on": {
+        "name": "燈環常亮"
+      },
+      "collision_avoidance": {
+        "name": "防碰撞"
+      },
+      "fill_light": {
+        "name": "補光"
+      },
+      "ai_obstacle_detection": {
+        "name": "AI 避障"
+      },
+      "ai_pet_detection": {
+        "name": "寵物識別"
+      },
+      "pet_focused_detection": {
+        "name": "寵物重點防護"
+      },
+      "pet_focused_cleaning": {
+        "name": "寵物重點清潔"
+      },
+      "ai_obstacle_picture": {
+        "name": "障礙物圖片"
+      },
+      "obstacle_crossing": {
+        "name": "越障同步"
+      },
+      "active_suspension_crossing": {
+        "name": "主動懸掛越障"
+      },
+      "dynamic_obstacle_cleaning": {
+        "name": "動態越障清潔"
+      },
+      "large_particles_boost": {
+        "name": "大顆粒增壓"
+      },
+      "streaming_voice_prompt": {
+        "name": "語音流播"
+      },
+      "voice_assistant": {
+        "name": "語音助手"
+      },
+      "off_peak_charging": {
+        "name": "谷電充電"
+      },
+      "dnd_disable_resume_cleaning": {
+        "name": "禁續掃"
+      },
+      "dnd_disable_auto_empty": {
+        "name": "禁集塵"
+      },
+      "dnd_reduce_volume": {
+        "name": "降音量"
+      },
+      "dnd": {
+        "name": "勿擾"
+      }
     }
   },
   "entity_component": {
